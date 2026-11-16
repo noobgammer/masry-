@@ -42,6 +42,8 @@ npm test
 
 ## Optional services (the app works without them)
 
+Copy `.env.example` to `.env` in the project folder, fill in the keys, and restart the app.
+
 | Variable | What it unlocks | Without it |
 |---|---|---|
 | `AZURE_SPEECH_KEY`, `AZURE_SPEECH_REGION` | Egyptian neural voices `ar-EG-SalmaNeural` / `ar-EG-ShakirNeural`, rendered at real slow/normal/fast rates and cached in `data/audio/` (each clip is generated once). Free tier: 0.5M characters/month. | Browser speech. Edge exposes Egyptian voices; Chrome/Safari usually only have MSA/Gulf voices, and the app shows a red "not Egyptian" badge when that happens. |

@@ -2,6 +2,7 @@
 // Every drafted entry is stored as UNVERIFIED (shown with a badge) until a native speaker reviews it —
 // move reviewed lines into a non-"draft" file and re-run `npm run seed`.
 // Usage: ANTHROPIC_API_KEY=... npx tsx scripts/draft-vocab.ts --count 250 --batch 50
+import '../server/env.ts';
 import fs from 'node:fs';
 import path from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';

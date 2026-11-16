@@ -1,3 +1,4 @@
+import './env.ts';
 import { createApp } from './app.ts';
 import { db } from './db.ts';
 import { seed } from './seed.ts';
