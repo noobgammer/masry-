@@ -140,7 +140,7 @@ export function createApp() {
       res.setHeader('Content-Type', native.mime);
       return res.sendFile(native.file);
     }
-    if (!azureEnabled()) return res.status(404).json({ fallback: 'browser' });
+    if (!azureEnabled()) return res.status(204).setHeader('X-Audio-Fallback', 'browser').end();
     try {
       const f = await azureAudio(text, VOICES[voice] ? voice : 'f', rate);
       res.setHeader('X-Audio-Source', 'azure');
@@ -221,14 +221,14 @@ export function createApp() {
 
   // ------------------------------------------------------------ SRS
   const cardRow = (uid: number, vid: number, skill: Skill) => get('SELECT * FROM srs_cards WHERE user_id=? AND vocab_id=? AND skill=?', uid, vid, skill);
-  const saveCard = (uid: number, vid: number, skill: Skill, c: Card) => {
-    run(`INSERT INTO srs_cards (user_id, vocab_id, skill, state, step, due, interval_days, ease, reps, lapses, last_review, last_ms, avg_ms, created_at)
-      VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(user_id, vocab_id, skill) DO UPDATE SET state=excluded.state, step=excluded.step, due=excluded.due,
+  const saveCard = (uid: number, vid: number, skill: Skill, c: Card, source = 'learn') => {
+    run(`INSERT INTO srs_cards (user_id, vocab_id, skill, state, step, due, interval_days, ease, reps, lapses, last_review, last_ms, avg_ms, created_at, source)
+      VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(user_id, vocab_id, skill) DO UPDATE SET state=excluded.state, step=excluded.step, due=excluded.due,
       interval_days=excluded.interval_days, ease=excluded.ease, reps=excluded.reps, lapses=excluded.lapses, last_review=excluded.last_review,
       last_ms=excluded.last_ms, avg_ms=excluded.avg_ms`,
-      uid, vid, skill, c.state, c.step, c.due, c.interval_days, c.ease, c.reps, c.lapses, c.last_review, c.last_ms, c.avg_ms, now());
+      uid, vid, skill, c.state, c.step, c.due, c.interval_days, c.ease, c.reps, c.lapses, c.last_review, c.last_ms, c.avg_ms, now(), source);
   };
-  const introducedToday = (uid: number) => (get(`SELECT COUNT(*) n FROM srs_cards WHERE user_id=? AND skill='read' AND created_at>=?`, uid, new Date(today() + 'T00:00:00').getTime()) as Row).n as number;
+  const introducedToday = (uid: number) => (get(`SELECT COUNT(*) n FROM srs_cards WHERE user_id=? AND skill='read' AND source='learn' AND created_at>=?`, uid, new Date(today() + 'T00:00:00').getTime()) as Row).n as number;
 
   app.get('/api/srs/stats', h((req, res) => {
     const s = settings(req);
@@ -272,9 +272,9 @@ export function createApp() {
     const t = now();
     tx(db(), () => {
       known.forEach((vid, i) => {
-        if (!cardRow(req.uid, vid, 'read')) saveCard(req.uid, vid, 'read', knownCard(t, 6 + (i % 8)));
+        if (!cardRow(req.uid, vid, 'read')) saveCard(req.uid, vid, 'read', knownCard(t, 6 + (i % 8)), 'placement');
         // known by sight ≠ known by ear: listening cards are tested soon, staggered ~30/day
-        if (!cardRow(req.uid, vid, 'listen')) saveCard(req.uid, vid, 'listen', { ...knownCard(t, 1), due: t + Math.floor(i / 30) * 86_400_000 });
+        if (!cardRow(req.uid, vid, 'listen')) saveCard(req.uid, vid, 'listen', { ...knownCard(t, 1), due: t + Math.floor(i / 30) * 86_400_000 }, 'placement');
       });
     });
     res.json({ ok: true, added: known.length });
@@ -507,6 +507,11 @@ export function createApp() {
     return base;
   };
 
+  // audio text for blind-listening drills (the client plays it without displaying it)
+  app.get('/api/sentences/:id/audio-text', h((req, res) => {
+    const s = get('SELECT arabic FROM sentences WHERE id=?', Number(req.params.id));
+    s ? res.json({ arabic: s.arabic }) : res.status(404).json({ error: 'not found' });
+  }));
   app.get('/api/lab/dictation', h((req, res) => {
     const [a, b] = labTier(req.uid, 'dictation', [2, 4]);
     const s = req.query.id ? get('SELECT * FROM sentences WHERE id=?', Number(req.query.id)) : pickSentence(req.uid, { minTier: a, maxTier: b, skill: 'dictation' });
@@ -680,7 +685,7 @@ export function createApp() {
     const { text, vocab_id, context, source } = req.body;
     run('INSERT OR IGNORE INTO saved_words (user_id, text, vocab_id, context, source, created_at) VALUES (?,?,?,?,?,?)', req.uid, String(text), vocab_id ?? null, context ?? null, source ?? null, now());
     // saving a known lemma pulls it into the SRS if it isn't there yet
-    if (vocab_id && !cardRow(req.uid, vocab_id, 'read')) { saveCard(req.uid, vocab_id, 'read', newCard(now())); saveCard(req.uid, vocab_id, 'listen', newCard(now())); }
+    if (vocab_id && !cardRow(req.uid, vocab_id, 'read')) { saveCard(req.uid, vocab_id, 'read', newCard(now()), 'saved'); saveCard(req.uid, vocab_id, 'listen', newCard(now()), 'saved'); }
     res.json({ ok: true });
   }));
   app.delete('/api/saved/:id', h((req, res) => { run('DELETE FROM saved_words WHERE id=? AND user_id=?', Number(req.params.id), req.uid); res.json({ ok: true }); }));

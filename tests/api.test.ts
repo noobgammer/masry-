@@ -71,6 +71,9 @@ describe('phase 1: vocabulary + SRS', () => {
     const v = await api('/api/vocab?level=1');
     const known = v.json.filter((w: any) => ids.includes(w.id));
     expect(known.every((w: any) => w.read?.state === 'review' && w.listen)).toBe(true);
+    // placement must not consume the daily new-word quota
+    const stats = await api('/api/srs/stats');
+    expect(stats.json.newToday).toBe(5);
   });
 });
 

@@ -100,6 +100,7 @@ CREATE TABLE IF NOT EXISTS srs_cards (
   last_ms INTEGER,
   avg_ms REAL,
   created_at INTEGER NOT NULL,
+  source TEXT NOT NULL DEFAULT 'learn',  -- learn | placement | saved
   PRIMARY KEY (user_id, vocab_id, skill)
 );
 CREATE INDEX IF NOT EXISTS srs_due ON srs_cards(user_id, due);
@@ -218,6 +219,8 @@ let _db: DatabaseSync | null = null;
 export function openDb(file = process.env.MASRY_DB || path.join(DATA_DIR, 'masry.db')): DatabaseSync {
   const db = new DatabaseSync(file);
   db.exec(SCHEMA);
+  // lightweight migrations for databases created by earlier versions
+  try { db.exec("ALTER TABLE srs_cards ADD COLUMN source TEXT NOT NULL DEFAULT 'learn'"); } catch { /* exists */ }
   return db;
 }
 

@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "IBM Plex Sans Arabic", system-ui, sans-serif;
+  --font-arabic: "IBM Plex Sans Arabic", "Noto Naskh Arabic", system-ui, sans-serif;
+  --font-naskh: "Noto Naskh Arabic", "IBM Plex Sans Arabic", serif;
+  --color-nile-50: #effaf8;
+  --color-nile-100: #d5f2ec;
+  --color-nile-200: #aee4d9;
+  --color-nile-300: #7bcfc0;
+  --color-nile-400: #45b3a2;
+  --color-nile-500: #239787;
+  --color-nile-600: #157a6e;
+  --color-nile-700: #0f625a;
+  --color-nile-800: #0e4f49;
+  --color-nile-900: #0b3f3b;
+  --color-sand-50: #fdf8ef;
+  --color-sand-100: #f8ecd6;
+  --color-sand-200: #f0d6a8;
+  --color-sand-400: #dea152;
+  --color-sand-500: #cf8530;
+  --color-sand-600: #b36a22;
+}
+
+:root { color-scheme: light dark; }
+html, body { background: var(--color-stone-50); color: var(--color-stone-900); }
+@media (prefers-color-scheme: dark) {
+  html, body { background: #0f1413; color: var(--color-stone-100); }
+}
+
+.ar { font-family: var(--font-arabic); direction: rtl; unicode-bidi: isolate; line-height: 1.9; }
+.ar-naskh { font-family: var(--font-naskh); direction: rtl; unicode-bidi: isolate; line-height: 2; }
+@utility card { @apply rounded-2xl border border-stone-200 bg-white p-5 shadow-sm dark:border-stone-800 dark:bg-stone-900; }
+@utility btn { @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition active:scale-[.98] disabled:opacity-40 disabled:pointer-events-none; }
+@utility btn-primary { @apply btn bg-nile-600 text-white hover:bg-nile-700 shadow-sm; }
+@utility btn-ghost { @apply btn text-stone-700 hover:bg-stone-100 dark:text-stone-200 dark:hover:bg-stone-800; }
+@utility btn-outline { @apply btn border border-stone-300 bg-white text-stone-800 hover:bg-stone-50 dark:border-stone-700 dark:bg-stone-900 dark:text-stone-100 dark:hover:bg-stone-800; }
+@utility btn-sand { @apply btn bg-sand-500 text-white hover:bg-sand-600; }
+@utility chip { @apply inline-flex items-center gap-1 rounded-full border px-3 py-1 text-sm transition; }
+@utility label { @apply text-xs font-semibold uppercase tracking-wider text-stone-500 dark:text-stone-400; }
+@utility input { @apply w-full rounded-xl border border-stone-300 bg-white px-3 py-2.5 text-base outline-none focus:border-nile-500 focus:ring-2 focus:ring-nile-200 dark:border-stone-700 dark:bg-stone-900 dark:focus:ring-nile-900; }
+@utility tok { @apply cursor-pointer rounded-md px-0.5 transition hover:bg-sand-100 dark:hover:bg-stone-800; }
+@utility tok-known { @apply underline decoration-nile-300/60 decoration-dotted underline-offset-[10px]; }
+@utility tok-new { @apply underline decoration-sand-400 decoration-2 underline-offset-[10px]; }
+.fade-in { animation: fade .25s ease-out; }
+@keyframes fade { from { opacity: 0; transform: translateY(4px) } to { opacity: 1; transform: none } }
+.blur-text { filter: blur(7px); user-select: none; }
