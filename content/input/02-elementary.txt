@@ -1,0 +1,90 @@
+# Comprehensible input — ELEMENTARY (difficulty 2): longer, familiar vocab + some new expressions
+
+=== derby-plans
+title: Watching the derby
+title_ar: ماتش القمة
+difficulty: 2
+topic: football
+kind: dialogue
+---
+A(m): هتتفرج على الماتش بكره؟ | Are you going to watch the match tomorrow?
+B(m): طبعاً! أهلي وزمالك، ده ماتش القمة يا عم. | Of course! Ahly vs Zamalek, it's the big derby, man.
+A(m): هتتفرج فين؟ | Where will you watch it?
+B(m): على القهوة اللي جنب البيت. الجو هناك بيبقى حلو أوي. | At the café next to the house. The atmosphere there is really good.
+A(m): بس القهوة دي بتبقى زحمة موت وقت الماتشات. | But that café gets insanely crowded during matches.
+B(m): عشان كده لازم نروح بدري، قبل الماتش بساعة على الأقل. | That's why we have to go early, at least an hour before the match.
+
+A(m): إنت أهلاوي ولا زملكاوي؟ | Are you an Ahly or a Zamalek fan?
+B(m): أهلاوي طبعاً، وإنت؟ | Ahly of course, and you?
+A(m): زملكاوي، للأسف. | Zamalek, unfortunately.
+B(m): يا نهار أبيض! خلاص، مش هنقعد على نفس الترابيزة. | Oh my god! That's it, we won't sit at the same table.
+A(m): هههه ماشي، بس لو الزمالك كسب، إنت اللي هتدفع الحساب. | Haha OK, but if Zamalek wins, you're paying the bill.
+B(m): اتفقنا، عشان مش هيكسب أصلاً. | Deal, because they won't win anyway.
+---
+? هيتفرجوا على الماتش فين؟ | Where will they watch the match? | على القهوة | في البيت | في الاستاد | في الجامعة
+? ليه لازم يروحوا بدري؟ | Why do they need to go early? | عشان القهوة بتبقى زحمة | عشان الماتش بدري | عشان عايزين ياكلوا | عشان القهوة بتقفل
+? مين هيدفع لو الزمالك كسب؟ | Who pays if Zamalek wins? | الأهلاوي | الزملكاوي | محدش | الاتنين
+
+=== weekend-alex
+title: A weekend in Alexandria
+title_ar: ويك إند في إسكندرية
+difficulty: 2
+topic: travel
+kind: story
+---
+N(f): الأسبوع اللي فات، أنا وصحابي قررنا نسافر إسكندرية يومين. | Last week, my friends and I decided to go to Alexandria for two days.
+N(f): ركبنا القطر من محطة مصر الساعة تمانية الصبح. | We took the train from Cairo station at eight in the morning.
+N(f): الرحلة كانت حوالي تلات ساعات، وقعدنا نضحك ونهزر طول الطريق. | The trip was about three hours, and we kept laughing and joking the whole way.
+
+N(f): أول ما وصلنا، روحنا على البحر على طول. | As soon as we arrived, we went straight to the sea.
+N(f): الجو كان حلو أوي، مش حر زي القاهرة. | The weather was really nice, not hot like Cairo.
+N(f): بالليل أكلنا سمك في مطعم مشهور جنب البحر. | At night we ate fish at a famous restaurant by the sea.
+N(f): الأكل كان تحفة، بس الحساب كان غالي شوية. | The food was amazing, but the bill was a bit expensive.
+
+N(f): تاني يوم صحينا متأخر، وملحقناش نشوف حاجات كتير. | The next day we woke up late and didn't manage to see many things.
+N(f): بس برضه كانت رحلة حلوة، وناويين نرجع تاني في الصيف. | But still it was a nice trip, and we plan to go back again in the summer.
+---
+? سافروا إزاي؟ | How did they travel? | بالقطر | بالأتوبيس | بالعربية | بالطيارة
+? الجو في إسكندرية كان عامل إزاي؟ | What was the weather like in Alexandria? | حلو ومش حر | حر جداً | برد ومطر | زحمة
+? ليه ملحقوش يشوفوا حاجات كتير تاني يوم؟ | Why didn't they see much on the second day? | عشان صحيوا متأخر | عشان الجو وحش | عشان مكانش معاهم فلوس | عشان القطر اتأخر
+
+=== lost-keys
+title: Where are the keys?
+title_ar: المفاتيح فين؟
+difficulty: 2
+topic: friends
+kind: dialogue
+---
+A(m): يا أحمد، شفت المفاتيح بتاعتي؟ | Ahmed, have you seen my keys?
+B(m): لأ، كانت فين آخر مرة؟ | No, where were they last time?
+A(m): مش فاكر. كانت معايا لما رجعت امبارح. | I don't remember. They were with me when I came back yesterday.
+B(m): دورت في الشنطة؟ | Did you look in the bag?
+A(m): آه، دورت في كل حتة! الشنطة، الأوضة، المطبخ... | Yes, I looked everywhere! The bag, the room, the kitchen...
+B(m): طب والبنطلون اللي كنت لابسه امبارح؟ | What about the trousers you were wearing yesterday?
+A(m): استنى... | Wait...
+A(m): أيوه! لقيتها! كانت في جيب البنطلون. | Yes! I found them! They were in the trouser pocket.
+B(m): كل مرة نفس الحكاية يا عم. | Same story every time, man.
+---
+? هو بيدور على إيه؟ | What is he looking for? | المفاتيح | الموبايل | الشنطة | البنطلون
+? لقاها فين؟ | Where did he find them? | في جيب البنطلون | في الشنطة | في المطبخ | في الأوضة
+? إيه معنى "كل مرة نفس الحكاية"؟ | What does "every time the same story" imply? | ده بيحصل كتير | دي أول مرة | الحكاية حلوة | هو بيحكي قصة
+
+=== dinner-invite
+title: A dinner invitation
+title_ar: عزومة
+difficulty: 2
+topic: food
+kind: dialogue
+---
+A(f): بلال، إنت فاضي يوم الجمعة؟ | Bilal, are you free on Friday?
+B(m): أيوه فاضي، ليه؟ | Yes I'm free, why?
+A(f): ماما عاملة عزومة، وعايزاك تيجي تتغدى معانا. | Mum is hosting a dinner, and she wants you to come have lunch with us.
+B(m): ياه، ده كرم منها! أكيد هاجي. أجيب حاجة معايا؟ | Wow, that's generous of her! Of course I'll come. Shall I bring something?
+A(f): لأ ولا حاجة، تعالى بس. | No, nothing, just come.
+B(m): لأ عيب، لازم أجيب حاجة. هجيب حلويات. | No, it's not polite, I have to bring something. I'll bring sweets.
+A(f): ماشي، زي ما تحب. الغدا الساعة تلاتة بعد صلاة الجمعة. | OK, as you like. Lunch is at three after Friday prayer.
+B(m): تمام، ابعتيلي اللوكيشن. | Great, send me the location.
+---
+? العزومة يوم إيه؟ | Which day is the dinner? | الجمعة | الخميس | السبت | النهارده
+? هيجيب معاه إيه؟ | What will he bring? | حلويات | فاكهة | عصير | ولا حاجة
+? الغدا الساعة كام؟ | What time is lunch? | تلاتة | اتنين | خمسة | بعد العشا

@@ -1,0 +1,205 @@
+# Contextual sentence ladders.
+# "@ <arabic headword>" starts a block for that vocab entry ("@ *" = mixed / unfamiliar-combination sentences).
+# Line: tier | arabic | transliteration | english | notes(optional)
+# Tiers: 2 two-three word expressions · 3 simple sentence · 4 longer with connectors · 5 multi-clause · 6 natural conversational response · 7 unfamiliar combination of known words
+# A "/" in the Arabic (and English) marks phrase chunks — used by the Sentence Segmentation drill.
+
+@ عايز
+2 | عايز مية. | 3aayez mayya. | I want water.
+3 | إنت عايز تاكل إيه؟ | enta 3aayez taakol eeh? | What do you want to eat?
+4 | كنت عايز أروح الجيم بس مكنتش فاضي. | kont 3aayez aroo7 eggeem bass makontesh faaḍi. | I wanted to go to the gym but I wasn't free.
+5 | أنا كنت عايز أسألك على حاجة / بس نسيت. | ana kont 3aayez as2alak 3ala 7aaga / bass neseet. | I wanted to ask you about something / but I forgot.
+6 | بص، أنا مش عايز أتكلم في الموضوع ده دلوقتي، ماشي؟ | boṣṣ, ana mesh 3aayez atkallem fel-mawḍoo3 da dilwa2ti, maashi? | Look, I don't want to talk about this now, OK?
+6 | عايزين نخرج النهارده ولا إيه النظام؟ | 3ayzeen nokhrog ennaharda walla eeh ennezaam? | Do we want to go out today or what's the plan?
+
+@ كان / يكون
+2 | كان فين؟ | kaan feen? | Where was he?
+3 | كنت في البيت امبارح. | kont fel-beet embaare7. | I was at home yesterday.
+4 | كنت بروح الجيم كل يوم لما كنت في الجامعة. | kont baroo7 eggeem koll yoom lamma kont fel-gam3a. | I used to go to the gym every day when I was at university.
+5 | لو كنت أعرف إنه جاي / كنت استنيته. | law kont a3raf ennu gaay / kont estanneeto. | If I'd known he was coming / I would have waited for him.
+6 | والله ما كانش قصدي، أنا كنت بهزر بس. | wallahi ma kansh 2aṣdi, ana kont bahazzar bass. | I swear I didn't mean it, I was only joking.
+
+@ راح / يروح
+2 | رايح فين؟ | raayeh feen? | Where are you going?
+3 | هروح الجامعة بكره الصبح. | haroo7 elgam3a bokra eṣṣob7. | I'll go to university tomorrow morning.
+4 | روحت السوبرماركت بس كان قافل. | roo7t essobermarket bass kaan 2aafel. | I went to the supermarket but it was closed.
+5 | أنا كنت عايز أروح الجيم النهارده / بس صحيت متأخر / ومكانش عندي وقت. | ana kont 3aayez aroo7 eggeem ennaharda / bass ṣ7eet met2akhar / w makansh 3andi wa2t. | I wanted to go to the gym today / but I woke up late / and didn't have time.
+6 | لأ يا عم، مش رايح في حتة، أنا هقعد في البيت. | la2 ya 3amm, mesh raayeh fi 7etta, ana ha23od fel-beet. | No man, I'm not going anywhere, I'm staying home.
+
+@ جه / ييجي
+2 | جه إمتى؟ | geh emta? | When did he come?
+3 | هتيجي معانا ولا لأ؟ | hateegi ma3aana walla la2? | Are you coming with us or not?
+4 | صاحبي جه من السعودية امبارح عشان يزور أهله. | ṣaa7bi geh mennes-sa3udeyya embaare7 3ashaan yzoor ahlo. | My friend came from Saudi yesterday to visit his family.
+5 | لما تيجي / ابقى رن عليا / عشان أنزلك. | lamma teegi / eb2a renn 3alayya / 3ashaan anzellak. | When you come / give me a ring / so I can come down to you.
+6 | جاي جاي، خمس دقايق بالظبط وأكون عندك. | gaay gaay, khamas da2aye2 bezzabṭ w akoon 3andak. | Coming, coming — five minutes exactly and I'll be at yours.
+
+@ قال / يقول
+2 | قالي إيه؟ | 2alli eeh? | What did he tell me?
+3 | قولتلك امبارح إني مش فاضي. | 2oltelak embaare7 enni mesh faaḍi. | I told you yesterday that I'm not free.
+4 | هو قالي إنه جاي، بس لسه مجاش. | huwwa 2alli ennu gaay, bass lessa magaash. | He told me he's coming, but he hasn't come yet.
+5 | الدكتور قال / إن الامتحان هيبقى سهل / بس أنا مش مصدقه. | eddoktoor 2aal / enn elemte7aan haiyeb2a sahl / bass ana mesh meṣadda2o. | The lecturer said / the exam will be easy / but I don't believe him.
+6 | إنت بتقول إيه بس؟ ده مش اللي اتفقنا عليه خالص! | enta bet2ool eeh bass? da mesh elli ettafa2na 3aleeh khaaleṣ! | What are you even saying? That's not at all what we agreed on!
+
+@ عرف / يعرف
+2 | مش عارف. | mesh 3aaref. | I don't know.
+3 | تعرف مطعم كويس هنا؟ | te3raf maṭ3am kwayyes hena? | Do you know a good restaurant here?
+4 | أنا معرفش هو فين، بس ممكن أسأل أخوه. | ana ma3rafsh huwwa feen, bass momken as2al akhooh. | I don't know where he is, but I could ask his brother.
+5 | لو عرفت أي حاجة / ابعتلي على طول / عشان أنا قلقان. | law 3reft ayy 7aaga / eb3atli 3ala ṭool / 3ashaan ana 2al2aan. | If you find out anything / message me right away / because I'm worried.
+6 | معرفش والله، أنا لسه واصل وماعنديش فكرة عن أي حاجة. | ma3rafsh wallahi, ana lessa waaṣel w ma3andeesh fekra 3an ayy 7aaga. | I honestly don't know, I just arrived and have no idea about anything.
+
+@ شاف / يشوف
+2 | شفت ده؟ | shoft da? | Did you see this?
+3 | شفت الماتش امبارح؟ | shoft elmaatsh embaare7? | Did you see the match yesterday?
+4 | شفته في الجيم الصبح بس مكلمتوش. | shoftu feggeem eṣṣob7 bass makallemtoosh. | I saw him at the gym this morning but I didn't talk to him.
+5 | أول ما شفته / عرفت إن فيه حاجة غلط / عشان كان ساكت خالص. | awwel ma shoftu / 3reft enn fi 7aaga ghalaṭ / 3ashaan kaan saaket khaaleṣ. | As soon as I saw him / I knew something was wrong / because he was completely quiet.
+6 | شايف؟ مش قولتلك إنه هييجي متأخر؟ | shaayef? mesh 2oltelak ennu hayeegi met2akhar? | See? Didn't I tell you he'd come late?
+
+@ لازم
+2 | لازم أمشي. | laazem amshi. | I have to go.
+3 | لازم أذاكر النهارده. | laazem azaaker ennaharda. | I have to study today.
+4 | مش لازم تيجي بدري، إحنا هنبتدي الساعة تمانية. | mesh laazem teegi badri, e7na hanebtedi essaa3a tamanya. | You don't have to come early, we'll start at eight.
+5 | لازم تخلص الأسايمنت النهارده / عشان الديدلاين بكره الصبح / والدكتور مش بيقبل تأخير. | laazem tekhallaṣ elasaynment ennaharda / 3ashaan eddeadline bokra eṣṣob7 / weddoktoor mesh bey2bal ta2kheer. | You must finish the assignment today / because the deadline is tomorrow morning / and the lecturer doesn't accept lateness.
+6 | خلاص بقى، لازم نمشي، الدنيا هتبقى زحمة موت. | khalaaṣ ba2a, laazem nemshi, eddonya hateb2a za7ma moot. | OK enough, we have to go, it's going to be insanely jammed.
+
+@ ممكن
+2 | ممكن سؤال؟ | momken so2aal? | Can I ask a question?
+3 | ممكن تساعدني لو سمحت؟ | momken tesaa3edni law sama7t? | Could you help me please?
+4 | ممكن نتقابل بكره بدل النهارده عشان أنا تعبان؟ | momken net2aabel bokra badal ennaharda 3ashaan ana ta3baan? | Could we meet tomorrow instead of today because I'm tired?
+5 | ممكن يكون نسي / أو ممكن الموبايل فصل شحن / مش عارف. | momken ykoon nesi / aw momken elmobaayl faṣal sha7n / mesh 3aaref. | Maybe he forgot / or maybe his phone died / I don't know.
+6 | ممكن آه، ممكن لأ، على حسب الشغل. | momken aah, momken la2, 3ala 7asab eshshoghl. | Maybe yes, maybe no, depends on work.
+
+@ اللي
+2 | اللي جاي. | elli gaay. | The one that's coming. / The next one.
+3 | ده الواد اللي قولتلك عليه. | da elwaad elli 2oltelak 3aleeh. | This is the guy I told you about.
+4 | المطعم اللي روحناه امبارح كان أكله حلو أوي. | elmaṭ3am elli ro7naah embaare7 kaan aklo 7elw awi. | The restaurant we went to yesterday had really good food.
+5 | الواد اللي كان قاعد جنبي في المحاضرة / طلع ساكن في نفس الشارع / اللي أنا ساكن فيه. | elwaad elli kaan 2aa3ed gambi fel-mo7aḍra / ṭele3 saaken fi nafs eshshaare3 / elli ana saaken feeh. | The guy who was sitting next to me in the lecture / turned out to live on the same street / that I live on.
+6 | اللي حصل حصل، خلاص، مش هنقعد نتكلم فيه طول اليوم. | elli 7aṣal 7aṣal, khalaaṣ, mesh hano23od netkallem feeh ṭool elyoom. | What happened happened, that's it, we're not going to keep talking about it all day.
+
+@ عشان
+2 | عشان خاطري. | 3ashaan khaaṭri. | For my sake. / Please, for me.
+3 | جيت عشان أشوفك. | geet 3ashaan ashoofak. | I came to see you.
+4 | مجيتش امبارح عشان كان عندي امتحان. | magetsh embaare7 3ashaan kaan 3andi emte7aan. | I didn't come yesterday because I had an exam.
+5 | بصحى بدري كل يوم / عشان ألحق أروح الجيم / قبل الشغل. | baṣ7a badri koll yoom / 3ashaan al7a2 aroo7 eggeem / 2abl eshshoghl. | I wake up early every day / so I can make it to the gym / before work.
+6 | عشان كده بقولك متتأخرش، الراجل ده مش بيستنى حد. | 3ashaan keda ba2ollak mat2akharsh, erraagel da mesh beyestanna 7add. | That's why I'm telling you don't be late, this man doesn't wait for anyone.
+
+@ بس
+2 | بس كده؟ | bass keda? | That's it?
+3 | عايز شاي بس. | 3aayez shaay bass. | I just want tea.
+4 | الأكل حلو بس غالي شوية. | elakl 7elw bass ghaali shwayya. | The food is good but a bit expensive.
+5 | كنت هكلمك امبارح / بس الموبايل فصل شحن / ونمت على طول. | kont hakallemak embaare7 / bass elmobaayl faṣal sha7n / w nemt 3ala ṭool. | I was going to call you yesterday / but my phone died / and I fell asleep straight away.
+6 | بس بس بس، فهمت، مش محتاج تشرح تاني. | bass bass bass, fehemt, mesh me7taag teshra7 taani. | OK OK OK, I got it, you don't need to explain again.
+
+@ يعني
+2 | يعني إيه؟ | ya3ni eeh? | What does that mean?
+3 | يعني إنت مش جاي؟ | ya3ni enta mesh gaay? | So you're not coming?
+4 | هو كويس يعني، بس مش أحسن لاعب في الفريق. | huwwa kwayyes ya3ni, bass mesh a7san laa3eb fel-faree2. | He's good, I mean, but not the best player on the team.
+5 | يعني لو مش هتيجي / كنت قولتلي من الأول / بدل ما أستناك ساعة. | ya3ni law mesh hateegi / kont 2oltelli mel-awwel / badal ma astannaak saa3a. | I mean if you weren't coming / you should've told me from the start / instead of me waiting an hour for you.
+6 | يعني... مش عارف أقولك إيه، الموضوع معقد شوية. | ya3ni... mesh 3aaref a2ollak eeh, elmawḍoo3 me3a22ad shwayya. | Well... I don't know what to tell you, it's a bit complicated.
+
+@ لما
+2 | لما توصل. | lamma tewṣal. | When you arrive.
+3 | كلمني لما توصل. | kallemni lamma tewṣal. | Call me when you arrive.
+4 | لما كنت صغير كنت بلعب كورة في الشارع كل يوم. | lamma kont ṣoghayyar kont bal3ab kora fesh-shaare3 koll yoom. | When I was little I used to play football in the street every day.
+5 | لما رجعت البيت / لقيت أخويا قاعد / بياكل الأكل بتاعي. | lamma rge3t elbeet / la2eet akhooya 2aa3ed / bayaakol elakl betaa3i. | When I got home / I found my brother sitting there / eating my food.
+6 | لما تفضى ابقى قولي، مفيش استعجال. | lamma tefḍa eb2a 2olli, mafeesh este3gaal. | When you're free let me know, no rush.
+
+@ لو
+2 | لو سمحت. | law sama7t. | Please / excuse me.
+3 | لو فاضي تعالى. | law faaḍi ta3aala. | If you're free, come over.
+4 | لو الجو حلو بكره هنروح البحر. | law eggaw 7elw bokra hanroo7 elba7r. | If the weather's nice tomorrow we'll go to the beach.
+5 | لو كنت ذاكرت كويس / مكنتش هتقلق كده / قبل الامتحان. | law kont zaakert kwayyes / makontesh hate2la2 keda / 2abl elemte7aan. | If you had studied well / you wouldn't be this worried / before the exam.
+6 | لو عليا أنا، كنت قعدت في البيت، بس هما مصممين. | law 3alayya ana, kont 2a3adt fel-beet, bass humma meṣammemeen. | If it were up to me, I'd have stayed home, but they insist.
+
+@ كده
+2 | ليه كده؟ | leeh keda? | Why like that? / Why?
+3 | متعملش كده تاني. | mat3melsh keda taani. | Don't do that again.
+4 | هو دايماً كده، بيتأخر وبعدين يقول الزحمة. | huwwa dayman keda, beyet2akhkhar w ba3deen y2ool ezza7ma. | He's always like this, he's late and then blames the traffic.
+5 | كده كده هنتأخر / فخلينا ناكل الأول / وبعدين نمشي. | keda keda hanet2akhkhar / fakhalleena naakol elawwel / w ba3deen nemshi. | We'll be late anyway / so let's eat first / and then go.
+6 | آه كده تمام، كده أحسن بكتير. | aah keda tamaam, keda a7san bekteer. | Yes, like that is fine, that's much better.
+
+@ برضه
+2 | وأنا برضه. | w ana bardo. | Me too.
+3 | برضه مجاش؟ | bardo magaash? | He still didn't come?
+4 | قولتله ميت مرة، وبرضه بيعمل نفس الحاجة. | 2oltelo meet marra, w bardo bey3mel nafs el7aaga. | I've told him a hundred times, and he still does the same thing.
+5 | حتى لو مش عاجبك / هو برضه أخوك / ولازم تسأل عليه. | 7atta law mesh 3aagbak / huwwa bardo akhook / w laazem tes2al 3aleeh. | Even if you don't like it / he's still your brother / and you have to check on him.
+6 | ما هو برضه عنده حق، إنت اللي اتأخرت. | ma huwwa bardo 3ando 7a22, enta elli et2akhkhart. | Well, he does have a point, you're the one who was late.
+
+@ لسه
+2 | لسه بدري. | lessa badri. | It's still early.
+3 | لسه صاحي من النوم. | lessa ṣaa7i mennoom. | I just woke up.
+4 | لسه مخلصتش الأسايمنت ولسه فاضل يومين بس. | lessa makhallaṣtesh elasaynment w lessa faaḍel yoomeen bass. | I still haven't finished the assignment and there are only two days left.
+5 | لسه كنت هكلمك / لقيتك بترن / إيه التوقيت ده! | lessa kont hakallemak / la2eetak beterenn / eeh ettaw2eet da! | I was just about to call you / and found you ringing / what timing!
+6 | لأ لسه، ماوصلتش، أنا في الطريق. | la2 lessa, mawṣeltesh, ana feṭ-ṭaree2. | No, not yet, I haven't arrived, I'm on the way.
+
+@ خلاص
+2 | خلاص كده. | khalaaṣ keda. | That's it then.
+3 | خلاص، نتقابل بكره. | khalaaṣ, net2aabel bokra. | OK then, let's meet tomorrow.
+4 | خلاص متزعلش، أنا هكلمه وأحل الموضوع. | khalaaṣ matez3alsh, ana hakallemo w a7ell elmawḍoo3. | OK, don't be upset, I'll call him and sort it out.
+5 | خلاص مش هقول حاجة تاني / بس متجيش تشتكيلي بعدين / لما المشكلة تكبر. | khalaaṣ mesh ha2ool 7aaga taani / bass matgeesh teshtekeeli ba3deen / lamma elmoshkela tekbar. | Fine, I won't say anything else / but don't come complaining to me later / when the problem grows.
+6 | خلاص يا عم، خلاص، فهمت! | khalaaṣ ya 3amm, khalaaṣ, fehemt! | Enough man, enough, I got it!
+
+@ حتى
+2 | حتى أنا. | 7atta ana. | Even me.
+3 | حتى أخوه مجاش. | 7atta akhooh magaash. | Even his brother didn't come.
+4 | محدش رد عليا، حتى ماما مكانتش بترد. | ma7addesh radd 3alayya, 7atta maama makaanetsh beterodd. | Nobody answered me, even mum wasn't answering.
+5 | هروح الجيم النهارده / حتى لو تعبان / عشان مش عايز أفوت التمرين. | haroo7 eggeem ennaharda / 7atta law ta3baan / 3ashaan mesh 3aayez afawwet ettamreen. | I'll go to the gym today / even if I'm tired / because I don't want to miss the workout.
+6 | ده حتى مقالش شكراً! | da 7atta ma2alsh shokran! | He didn't even say thanks!
+
+@ مش
+2 | مش فاهم. | mesh faahem. | I don't understand.
+3 | أنا مش جعان دلوقتي. | ana mesh ga3aan dilwa2ti. | I'm not hungry now.
+4 | مش هقدر آجي النهارده عشان عندي شغل كتير. | mesh ha2dar aagi ennaharda 3ashaan 3andi shoghl keteer. | I won't be able to come today because I have a lot of work.
+5 | مش مهم إنت جيت متأخر / المهم إنك جيت / وإحنا لسه مبتدناش. | mesh mohemm enta geet met2akhar / elmohemm ennak geet / we7na lessa mabtadeenaash. | It doesn't matter you came late / the main thing is you came / and we haven't started yet.
+6 | مش عارف بقى، شوف إنت عايز إيه وقولي. | mesh 3aaref ba2a, shoof enta 3aayez eeh w 2olli. | I don't know, see what you want and tell me.
+
+@ فيه
+2 | فيه إيه؟ | fi eeh? | What's going on?
+3 | فيه مطعم حلو قريب من هنا. | fi maṭ3am 7elw 2orayyeb men hena. | There's a nice restaurant near here.
+4 | كان فيه زحمة فظيعة على الطريق عشان كده اتأخرت. | kaan fi za7ma faẓee3a 3aṭ-ṭaree2 3ashaan keda et2akhkhart. | There was awful traffic on the road, that's why I'm late.
+5 | فيه ناس بتحب تصحى بدري / وفيه ناس زيي / مبتصحاش قبل الضهر. | fi naas bet7ebb teṣ7a badri / w fi naas zayyi / mabteṣ7aash 2abl eḍḍohr. | There are people who like to wake up early / and there are people like me / who don't wake up before noon.
+6 | فيه إيه يا جماعة؟ مالكم ساكتين ليه؟ | fi eeh ya gamaa3a? maalkom saakteen leeh? | What's up guys? Why are you all quiet?
+
+@ بقالي
+2 | بقالي كتير. | ba2aali keteer. | It's been a long time (for me).
+3 | بقالي سنة بتعلم مصري. | ba2aali sana bat3allem maṣri. | I've been learning Egyptian for a year.
+4 | بقالك قد إيه ساكن في مصر؟ | ba2aalak 2add eeh saaken fi maṣr? | How long have you been living in Egypt?
+5 | بقالي ساعة مستنيك / ومش بترد على الموبايل / كنت فين؟ | ba2aali saa3a mestanneek / w mesh beterodd 3al-mobaayl / kont feen? | I've been waiting for you for an hour / and you're not answering your phone / where were you?
+6 | ياه! بقالنا كتير أوي مشفناش بعض. | yaah! ba2aalna keteer awi mashofnaash ba3d. | Wow! It's been ages since we saw each other.
+
+@ أول
+2 | أول مرة. | awwel marra. | The first time.
+3 | دي أول مرة آكل كشري. | di awwel marra aakol koshari. | This is the first time I've eaten koshari.
+4 | أول ما توصل البيت ابعتلي رسالة. | awwel ma tewṣal elbeet eb3atli resaala. | As soon as you get home send me a message.
+5 | أول ما دخلت الأوضة / كل الناس سكتت / وأنا فهمت إنهم كانوا بيتكلموا عني. | awwel ma dakhalt elooḍa / koll ennaas seketet / w ana fehemt ennohom kaanu beyetkallemu 3anni. | As soon as I walked into the room / everyone went quiet / and I understood they'd been talking about me.
+
+@ مع إن
+4 | جه مع إنه كان تعبان. | geh ma3a ennu kaan ta3baan. | He came even though he was tired.
+5 | خسرنا الماتش / مع إننا لعبنا أحسن منهم / طول الشوط التاني. | khesirna elmaatsh / ma3a enena le3ebna a7san mennohom / ṭool eshshooṭ ettaani. | We lost the match / even though we played better than them / the whole second half.
+
+@ عشان كده
+4 | كنت تعبان، عشان كده نمت بدري. | kont ta3baan, 3ashaan keda nemt badri. | I was tired, that's why I slept early.
+5 | الطريق كان زحمة جداً / والمترو كان عطلان / عشان كده اتأخرت ساعة. | eṭṭaree2 kaan za7ma geddan / welmetro kaan 3aṭlaan / 3ashaan keda et2akhkhart saa3a. | The road was really jammed / and the metro was broken / that's why I was an hour late.
+
+@ زي ما
+3 | زي ما تحب. | zayy ma te7ebb. | As you like.
+4 | اعمل زي ما قولتلك وهتلاقيها سهلة. | e3mel zayy ma 2oltelak w hatla2eeha sahla. | Do as I told you and you'll find it easy.
+5 | الموضوع مش زي ما إنت فاكر / هو مكانش قاصد / هو بس كان متضايق. | elmawḍoo3 mesh zayy ma enta faaker / huwwa makansh 2aaṣed / huwwa bass kaan metḍaaye2. | It's not how you think / he didn't mean it / he was just annoyed.
+
+@ بدل ما
+4 | بدل ما تقعد كده، قوم ساعدني. | badal ma to23od keda, 2oom saa3edni. | Instead of sitting like that, get up and help me.
+5 | بدل ما نطلب دليفري تاني / ما تيجي نطبخ حاجة / إحنا الاتنين؟ | badal ma noṭlob delivery taani / ma teegi noṭbokh 7aaga / e7na letneen? | Instead of ordering delivery again / why don't we cook something / the two of us?
+
+@ لحد
+3 | استنى لحد بكره. | estanna le7add bokra. | Wait until tomorrow.
+4 | قعدنا نتكلم لحد الساعة اتنين بالليل. | 2a3adna netkallem le7add essaa3a etneen bel-leel. | We kept talking until two at night.
+5 | مش همشي من هنا / لحد ما تقولي / إيه اللي حصل بالظبط. | mesh hamshi men hena / le7add ma t2olli / eeh elli 7aṣal bezzabṭ. | I won't leave here / until you tell me / exactly what happened.
+
+@ *
+7 | أنا بقالي يومين بفكر في الموضوع ده ولسه مش عارف أعمل إيه. | ana ba2aali yoomeen bafakkar fel-mawḍoo3 da w lessa mesh 3aaref a3mel eeh. | I've been thinking about this for two days and I still don't know what to do.
+7 | لو كنت أعرف إن الامتحان هيبقى صعب كده، كنت ذاكرت أكتر بدل ما أقعد على الموبايل. | law kont a3raf enn elemte7aan hayeb2a ṣa3b keda, kont zaakert aktar badal ma a23od 3al-mobaayl. | If I'd known the exam would be this hard, I'd have studied more instead of sitting on my phone.
+7 | صاحبي اللي كان ساكن معايا رجع بلده عشان أبوه تعبان، وأنا دلوقتي لوحدي في الشقة. | ṣaa7bi elli kaan saaken ma3aaya rege3 baladu 3ashaan abooh ta3baan, w ana dilwa2ti lewa7di fesh-sha22a. | My friend who used to live with me went back home because his father is ill, and now I'm alone in the flat.
+7 | الماتش كان حلو أوي لحد ما الحكم إدى بلنتي غلط في آخر دقيقة. | elmaatsh kaan 7elw awi le7add ma el7akam edda balanti ghalaṭ fi aakher di2ee2a. | The match was really good until the referee gave a wrong penalty in the last minute.
+7 | محدش قالي إن المحاضرة اتلغت، فروحت الجامعة على الفاضي. | ma7addesh 2alli enn elmo7aḍra etlaghet, faro7t elgam3a 3al-faaḍi. | Nobody told me the lecture was cancelled, so I went to university for nothing.
+7 | بصراحة أنا مش فاهم هو زعلان ليه، أنا مقلتلوش أي حاجة وحشة. | beṣaraa7a ana mesh faahem huwwa za3laan leeh, ana ma2oltelloosh ayy 7aaga we7sha. | Honestly I don't understand why he's upset, I didn't say anything bad to him.
+7 | كل ما أقوله تعالى نتمرن سوا، يقولي بكره بكره، وفي الآخر مبييجيش. | koll ma a2oolo ta3aala netmarran sawa, y2olli bokra bokra, w fel-aakher mabiyeegeesh. | Every time I tell him let's train together, he says tomorrow, tomorrow, and in the end he never comes.
+7 | أول ما الأكل وصل، الكل سكت وابتدى ياكل كأنهم مكلوش من أسبوع. | awwel ma elakl weṣel, elkoll seket webtada yaakol ka2ennohom makaloosh men esboo3. | As soon as the food arrived, everyone went quiet and started eating as if they hadn't eaten in a week.

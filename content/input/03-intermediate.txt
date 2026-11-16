@@ -1,0 +1,117 @@
+# Comprehensible input — INTERMEDIATE (difficulty 3): natural conversations between Egyptians
+
+=== assignment-panic
+title: The assignment deadline
+title_ar: الديدلاين
+difficulty: 3
+topic: university
+kind: dialogue
+---
+A(f): إنتي خلصتي الأسايمنت بتاع الدكتور حسام؟ | Did you finish Dr. Hossam's assignment?
+B(f): أسايمنت إيه؟ هو فيه أسايمنت؟ | What assignment? There's an assignment?
+A(f): إنتي بتهزري؟ الديدلاين بكره الساعة تسعة الصبح! | Are you kidding? The deadline is tomorrow at nine in the morning!
+B(f): يا نهار أبيض! محدش قالي خالص. | Oh my god! Nobody told me at all.
+A(f): ده هو قال في السكشن الأسبوع اللي فات، وكمان نزله على الجروب. | He said it in the section last week, and also posted it on the group.
+B(f): أنا مكنتش في السكشن عشان كنت عيانة، والجروب ده أنا عاملاه ميوت من زمان. | I wasn't in the section because I was sick, and I muted that group ages ago.
+
+A(f): طب بصي، هو مش صعب أوي. هما خمس أسئلة بس، وأنا ممكن أشرحلك الفكرة. | OK look, it's not too hard. It's just five questions, and I can explain the idea to you.
+B(f): بجد؟ ربنا يخليكي. نتقابل في المكتبة بعد المحاضرة؟ | Really? Bless you. Shall we meet at the library after the lecture?
+A(f): ماشي، بس مش هقعد كتير عشان عندي شغل بالليل. | OK, but I won't stay long because I have work tonight.
+B(f): ساعة واحدة بس، أوعدك. | Just one hour, I promise.
+---
+? الديدلاين إمتى؟ | When is the deadline? | بكره الساعة تسعة | النهارده بالليل | الأسبوع الجاي | بعد المحاضرة
+? ليه هي متعرفش عن الأسايمنت؟ | Why didn't she know about the assignment? | عشان كانت عيانة وعاملة الجروب ميوت | عشان الدكتور مقالش | عشان مش بتروح الجامعة | عشان صاحبتها كدبت عليها
+? هيتقابلوا فين؟ | Where will they meet? | في المكتبة | في السكشن | في القهوة | في البيت
+? ليه مش هتقعد كتير؟ | Why won't she stay long? | عندها شغل بالليل | تعبانة | عندها امتحان | زعلانة منها
+
+=== restaurant-mixup
+title: The wrong order
+title_ar: الأوردر غلط
+difficulty: 3
+topic: restaurant
+kind: dialogue
+---
+A(m): لو سمحت يا كابتن! | Excuse me, captain! (addressing the waiter)
+B(m): أيوه يا فندم، تحت أمرك. | Yes sir, at your service.
+A(m): أنا طالب فراخ مشوية، والطبق ده فيه لحمة. | I ordered grilled chicken, and this plate has meat.
+B(m): آسف جداً يا فندم، شكله اتلخبط مع ترابيزة تانية. | Very sorry sir, it looks like it got mixed up with another table.
+A(m): ولا يهمك، بس ياريت بسرعة عشان إحنا مستعجلين شوية. | No worries, but quickly if possible because we're in a bit of a hurry.
+B(m): حاضر، عشر دقايق بالكتير ويكون عندك. | Sure, ten minutes at most and it'll be with you.
+
+C(m): يا عم ما كنت تاكل اللحمة وخلاص! | Man, you could've just eaten the meat and that's it!
+A(m): لأ طبعاً، أنا مش بحب اللحمة المشوية، بتبقى ناشفة. | No way, I don't like grilled meat, it's always dry.
+C(m): إنت اللي ناشف! هههه | You're the dry one! Haha
+B(m): اتفضل يا فندم، الفراخ. والحاجة الساقعة دي على حسابنا عشان التأخير. | Here you go sir, the chicken. And the cold drinks are on us because of the delay.
+A(m): الله! تسلم يا كابتن، ذوق والله. | Oh nice! Thanks captain, that's really thoughtful.
+---
+? هو كان طالب إيه؟ | What had he ordered? | فراخ مشوية | لحمة | سمك | كشري
+? إيه اللي حصل للأوردر؟ | What happened to the order? | اتلخبط مع ترابيزة تانية | اتحرق | اتأخر ساعة | نسيوه خالص
+? الجرسون عمل إيه عشان التأخير؟ | What did the waiter do to make up for the delay? | الحاجة الساقعة على حسابه | خصم من الحساب | جاب حلويات | اعتذر بس
+? صاحبه قال "إنت اللي ناشف" ليه؟ | Why did his friend say "you're the dry one"? | بيهزر معاه | زعلان منه | مش فاهم | بيتكلم عن الأكل
+
+=== weekend-debate
+title: Beach or home?
+title_ar: نعمل إيه الويك إند؟
+difficulty: 3
+topic: friends
+kind: dialogue
+---
+A(m): يا جماعة، إيه النظام الويك إند ده؟ | Guys, what's the plan this weekend?
+B(m): أنا بقول نروح العين السخنة، الجو هيبقى حلو. | I say we go to Ain Sokhna, the weather will be nice.
+C(m): السخنة إيه بس؟ دي محتاجة فلوس، وأنا آخر الشهر. | What Sokhna? That needs money, and it's the end of the month for me.
+B(m): يا عم مش هنصرف كتير، هنقسم البنزين والشاليه. | Man, we won't spend much, we'll split petrol and the chalet.
+C(m): برضه. أنا رأيي نقعد في البيت ونعمل ليلة بلايستيشن. | Still. My opinion is we stay home and have a PlayStation night.
+A(m): كل ويك إند بلايستيشن؟ زهقنا يا عم! | PlayStation every weekend? We're fed up, man!
+
+C(m): طب خلاص، بصوا، إيه رأيكم نروح السخنة يوم واحد بس، من غير مبيت؟ | OK fine, look, how about we go to Sokhna for one day only, without staying overnight?
+B(m): مش بطال. نطلع بدري الصبح ونرجع بالليل. | Not bad. We head out early morning and come back at night.
+A(m): تمام كده، اتفقنا. بس محدش يتأخر الصبح، أنا مش هستنى حد. | Great, deal. But nobody be late in the morning, I won't wait for anyone.
+C(m): الكلام ده ليك إنت أصلاً، إنت اللي دايماً بتنام لحد الضهر. | That's aimed at you actually, you're the one who always sleeps till noon.
+---
+? ليه واحد منهم مش عايز يروح السخنة في الأول؟ | Why didn't one of them want to go to Sokhna at first? | عشان آخر الشهر ومعهوش فلوس | عشان الجو وحش | عشان عنده شغل | عشان مش بيحب البحر
+? اتفقوا على إيه في الآخر؟ | What did they agree on in the end? | يروحوا يوم واحد من غير مبيت | يقعدوا في البيت | يروحوا يومين | يلعبوا بلايستيشن
+? مين اللي دايماً بينام لحد الضهر؟ | Who always sleeps until noon? | اللي قال محدش يتأخر | اللي قال بلايستيشن | اللي اقترح السخنة | محدش
+
+=== joke-taxi
+title: Taxi stories
+title_ar: حكاية التاكسي
+difficulty: 3
+topic: humour
+kind: story
+---
+N(m): بقولك إيه، امبارح حصلتلي حكاية غريبة أوي. | Listen, yesterday something really weird happened to me.
+N(m): ركبت تاكسي من التحرير، وقولت للسواق: "على مدينة نصر لو سمحت." | I took a taxi from Tahrir and told the driver: "To Nasr City please."
+N(m): الراجل قالي: "ماشي يا باشا"، وابتدى يسوق. | The man said "OK boss" and started driving.
+N(m): بعد ربع ساعة لقيته واقف قدام محل عصير. | After a quarter of an hour I found him stopped in front of a juice shop.
+
+N(m): قولتله: "خير يا أسطى؟ إحنا وصلنا؟" | I said to him: "Is everything OK, driver? Have we arrived?"
+N(m): قالي: "لأ، بس أنا عطشان، تشرب قصب؟" | He told me: "No, but I'm thirsty, will you have some sugarcane juice?"
+N(m): وأنا من الصدمة قولتله: "آه... ماشي." | And out of shock I told him: "Yeah... OK."
+N(m): وقعدنا نشرب قصب سوا كأننا صحاب من زمان! | And we sat drinking sugarcane juice together as if we were old friends!
+N(m): وفي الآخر، الأجرة طلعت أغلى من القصب بتاعي وبتاعه. | And in the end, the fare turned out more expensive than my juice and his.
+N(m): بس بصراحة، أحلى مشوار تاكسي في حياتي. | But honestly, the best taxi ride of my life.
+---
+? السواق وقف فين؟ | Where did the driver stop? | قدام محل عصير | قدام البيت | في مدينة نصر | في التحرير
+? ليه وقف؟ | Why did he stop? | عشان كان عطشان | عشان العربية عطلت | عشان وصلوا | عشان زحمة
+? الراوي حس بإيه عن المشوار في الآخر؟ | How did the narrator feel about the ride in the end? | انبسط منه | زعل جداً | خاف | اتخانق مع السواق
+
+=== gym-advice
+title: Advice at the gym
+title_ar: نصيحة في الجيم
+difficulty: 3
+topic: gym
+kind: dialogue
+---
+A(m): ممكن أسألك سؤال يا كابتن؟ | Can I ask you a question, coach?
+B(m): اتفضل يا حبيبي. | Go ahead, mate.
+A(m): أنا بقالي تلات شهور بتمرن، بس حاسس إني مش بتغير خالص. | I've been training for three months, but I feel I'm not changing at all.
+B(m): طب بتاكل إيه في اليوم؟ | OK, what do you eat in a day?
+A(m): عادي يعني، فطار وغدا، وساعات مش بتعشى. | Normal I guess, breakfast and lunch, and sometimes I don't have dinner.
+B(m): هي دي المشكلة. إنت مش بتاكل بروتين كفاية. التمرين لوحده مش هيعمل حاجة. | That's the problem. You're not eating enough protein. Training alone won't do anything.
+A(m): طب وأعمل إيه؟ | So what should I do?
+B(m): زود الفراخ والبيض والفول، ونام كويس، سبع ساعات على الأقل. وبعد شهر تعالى قولي. | Increase chicken, eggs and beans, and sleep well, at least seven hours. And come tell me after a month.
+A(m): ماشي، شكراً يا كابتن. | OK, thanks coach.
+---
+? بقاله قد إيه بيتمرن؟ | How long has he been training? | تلات شهور | سنة | شهر | أسبوع
+? إيه المشكلة حسب الكابتن؟ | What's the problem according to the coach? | مش بياكل بروتين كفاية | بيتمرن كتير | مش بينام خالص | بيتمرن غلط
+? الكابتن قاله ينام قد إيه؟ | How much did the coach tell him to sleep? | سبع ساعات على الأقل | خمس ساعات | عشر ساعات | زي ما يحب

@@ -1,0 +1,114 @@
+# WhatsApp-style reading. Message line:  Name: text  >> Arabic-script equivalent (only for Franco)  | English
+# "me" in the header names which participant is the learner's side.
+
+=== chat-plans-tonight
+title: Plans tonight
+title_ar: النظام بالليل
+difficulty: 1
+topic: friends
+me: Bilal
+---
+Karim: إيه النظام النهارده؟ | What's the plan today?
+Bilal: مفيش، فاضي. إنت؟ | Nothing, free. You?
+Karim: تعالى نقعد على القهوة | Come let's sit at the café
+Bilal: ماشي، الساعة كام؟ | OK, what time?
+Karim: ٩ كده | Around 9
+Bilal: تمام، هعدي عليك | Great, I'll pass by you
+Karim: 👍 | 👍
+---
+? هيتقابلوا فين؟ | Where will they meet? | على القهوة | في البيت | في الجيم | في الجامعة
+? الساعة كام؟ | What time? | تسعة | تمانية | عشرة | سبعة
+
+=== chat-franco-late
+title: Running late (Franco)
+title_ar: متأخر
+difficulty: 1
+topic: friends
+me: Bilal
+---
+Omar: enta fein ya 3am?? >> إنت فين يا عم؟؟ | Where are you man??
+Bilal: ana fel taree2, 5 da2aye2 >> أنا في الطريق، ٥ دقايق | I'm on the way, 5 minutes
+Omar: 5 da2aye2 bta3etak di ba2alha nos sa3a 😂 >> ٥ دقايق بتاعتك دي بقالها نص ساعة 😂 | Those 5 minutes of yours have been going on for half an hour 😂
+Bilal: walahy el zahma mesh tabi3eya >> والله الزحمة مش طبيعية | I swear the traffic is not normal
+Omar: tab yalla mestanik >> طب يلا مستنيك | OK come on, waiting for you
+---
+? بلال فين؟ | Where is Bilal? | في الطريق | في البيت | في القهوة | نايم
+? عمر بيهزر بيقول إيه؟ | What is Omar joking about? | إن الخمس دقايق بقالها نص ساعة | إن بلال نايم | إن الزحمة مش حقيقية | إن القهوة قفلت
+
+=== chat-exam
+title: Exam stress
+title_ar: الامتحان
+difficulty: 2
+topic: university
+me: Bilal
+---
+Nour: ذاكرت ولا لسه؟ | Have you studied or not yet?
+Bilal: لسه بصراحة 😅 | Not yet honestly 😅
+Nour: يا ابني الامتحان بكره!! | Dude, the exam is tomorrow!!
+Bilal: عارف عارف، هبتدي دلوقتي | I know I know, I'll start now
+Nour: طب خد الملخص ده، هيفيدك جداً | OK take this summary, it'll help you a lot
+Nour: 📄 ملخص_الفصل_التالت.pdf | 📄 chapter_3_summary.pdf
+Bilal: ربنا يخليكي بجد، إنتي أنقذتيني | Bless you seriously, you saved me
+Nour: ههههه ولا يهمك، بس ركز ومتسهرش للصبح | Hahaha no worries, but focus and don't stay up till morning
+Bilal: حاضر يا دكتورة 😂 | Yes, doctor 😂
+---
+? الامتحان إمتى؟ | When is the exam? | بكره | النهارده | الأسبوع الجاي | خلص
+? نور بعتتله إيه؟ | What did Nour send him? | ملخص | صورة | فلوس | لوكيشن
+? نور قالتله يعمل إيه؟ | What did Nour tell him to do? | يركز وميسهرش للصبح | ينام بدري ومذاكرش | يكلمها بالليل | يروح الجامعة
+
+=== chat-franco-gym
+title: Gym excuse (Franco)
+title_ar: حجة الجيم
+difficulty: 2
+topic: gym
+me: Bilal
+---
+Karim: hanetmaran enaharda wala eh? >> هنتمرن النهارده ولا إيه؟ | Are we training today or what?
+Bilal: msh 3aref, 7ases eni ta3ban shwaya >> مش عارف، حاسس إني تعبان شوية | I don't know, I feel a bit tired
+Karim: ta3ban? enta ba2alak 3 ayam msh beteegi >> تعبان؟ إنت بقالك ٣ أيام مش بتيجي | Tired? You haven't come for 3 days
+Bilal: ana 3aref bas el shoghl kteer awy >> أنا عارف بس الشغل كتير أوي | I know but work is really busy
+Karim: ya 3am kol yom 7aga, yalla mestanik 7 bel leil w msh 3ayez a3zar >> يا عم كل يوم حاجة، يلا مستنيك ٧ بالليل ومش عايز أعذار | Man, every day it's something, come on, waiting for you at 7pm and I don't want excuses
+Bilal: 5alas 5alas gay 😂 >> خلاص خلاص جاي 😂 | OK OK I'm coming 😂
+---
+? بلال بقاله قد إيه مش بيروح الجيم؟ | How long has Bilal not gone to the gym? | تلات أيام | أسبوع | يوم واحد | شهر
+? في الآخر بلال قرر إيه؟ | What did Bilal decide in the end? | هيروح | مش هيروح | هينام | هيشتغل
+
+=== chat-family-group
+title: Family group
+title_ar: جروب العيلة
+difficulty: 3
+topic: family
+me: Bilal
+---
+خالتو منى: صباح الخير يا حبايبي ☀️🌸 | Good morning my dears ☀️🌸
+خالتو منى: [صورة ورد] جمعة مباركة 🤲 | [flowers image] Blessed Friday 🤲
+أحمد: صباح النور يا خالتو | Good morning auntie
+خالتو منى: بلال يا حبيبي إنت فين مش بنشوفك خالص؟ | Bilal my dear where are you, we never see you at all?
+Bilal: معلش يا خالتو والله الدراسة واخدة كل وقتي 🙏 | Sorry auntie, honestly studying takes all my time 🙏
+خالتو منى: الدراسة مش هتطير، تعالى اتغدى معانا النهارده بعد الصلاة | Studying won't fly away, come have lunch with us today after prayer
+أحمد: تعالى يا عم، ماما عاملة محشي 😋 | Come man, mum made stuffed vegetables 😋
+Bilal: محشي؟ خلاص مقدرش أقول لأ 😂 جاي إن شاء الله | Mahshi? Then I can't say no 😂 coming, God willing
+خالتو منى: ❤️❤️ | ❤️❤️
+---
+? خالتو منى زعلانة من بلال ليه؟ | Why is Auntie Mona upset with Bilal? | عشان مش بيشوفوه خالص | عشان مردش على التليفون | عشان اتأخر | عشان مبيصليش
+? إيه اللي خلى بلال يوافق؟ | What made Bilal agree? | إن فيه محشي | إن خالته زعلت | إن الدراسة خلصت | إن أحمد عيان
+? "الدراسة مش هتطير" معناها إيه؟ | What does "studying won't fly away" mean? | الدراسة ممكن تستنى | الدراسة صعبة | لازم تذاكر | الدراسة خلصت
+
+=== chat-franco-argument
+title: A small misunderstanding (Franco + Arabic)
+title_ar: سوء تفاهم
+difficulty: 3
+topic: friends
+me: Bilal
+---
+Youssef: enta za3lan meni wala eh? >> إنت زعلان مني ولا إيه؟ | Are you upset with me or what?
+Bilal: la2 leh? >> لأ ليه؟ | No, why?
+Youssef: 3ashan mabtrodsh 3la el msgs w 3amel seen bas 🙄 >> عشان مبتردش على المسدجات وعامل سين بس 🙄 | Because you don't reply to messages and just leave them on seen 🙄
+Bilal: يا عم والله كنت مشغول، مش قصدي خالص | Man, I swear I was busy, I didn't mean it at all
+Youssef: mashy bas kol mara nafs el 7aga, 3eib keda >> ماشي بس كل مرة نفس الحاجة، عيب كده | OK but every time it's the same thing, that's not cool
+Bilal: عندك حق، حقك عليا 🙏 أعزمك على شاورما ونتصالح؟ | You're right, my bad 🙏 Shall I treat you to shawarma and we make up?
+Youssef: 😂😂 mashy ya 3am, shawerma w 7aga sa23a kaman >> ماشي يا عم، شاورما وحاجة ساقعة كمان | OK man, shawarma and a cold drink too
+---
+? يوسف زعلان ليه؟ | Why is Youssef upset? | عشان بلال مش بيرد وبيعمل سين | عشان بلال اتأخر | عشان بلال مجاش الجيم | عشان بلال نسي عيد ميلاده
+? "حقك عليا" معناها إيه؟ | What does "حقك عليا" mean? | أنا آسف، الحق عليا | إنت غلطان | مش مشكلتي | أنا مش فاهم
+? إزاي اتصالحوا؟ | How did they make up? | بلال عزمه على شاورما | يوسف اعتذر | راحوا الجيم | اتكلموا في التليفون

@@ -1,0 +1,172 @@
+# Level 4 (ranks continue). Everyday words found missing by the content coverage report + common extras.
+# arabic | translit | english | pos | category | variants | example | example English | notes
+جداً | geddan | very | adverb | adjectives | جدا | ده مهم جداً. | This is very important. | أوي is more colloquial; جداً is also common.
+أي | ayy | any | quantifier | adjectives | اي,أى | أي حاجة. | Anything. | أي حد = anyone; أي خدمة = you're welcome.
+عن | 3an | about / from | preposition | prepositions |  | بيتكلموا عني. | They're talking about me. |
+جو | gaww | weather / atmosphere / vibe | noun | nouns | الجو | الجو حلو النهارده. | The weather is nice today. | جو القهوة = the café vibe.
+حاضر | 7aaḍer | sure / right away (I will) | particle | expressions |  | حاضر يا ماما. | Sure, mum. | Obedient "yes" to a request.
+اتفضل | etfaḍḍal | here you go / please (come in) | expression | expressions | اتفضلي,اتفضلوا | اتفضل اقعد. | Please, have a seat. |
+كابتن | kaptin | captain (address to waiter/coach) | noun | slang |  | لو سمحت يا كابتن! | Excuse me, captain! | Friendly address to service workers.
+فندم | fandem | sir / madam (polite) | noun | expressions | يا فندم | أيوه يا فندم. | Yes, sir. | Service-language politeness.
+نظام | neẓaam | system / plan / vibe | noun | slang | النظام | إيه النظام؟ | What's the plan? |
+شقة | sha22a | flat / apartment | noun | places | شقه,الشقة | ساكن في شقة صغيرة. | I live in a small flat. |
+حتة | 7etta | place / piece / bit | noun | nouns | حته,حتت | مش رايح في حتة. | I'm not going anywhere. | حتة صغيرة = a small piece.
+بسرعة | besor3a | quickly | adverb | adjectives | بسرعه,سريع | تعالى بسرعة! | Come quickly! |
+براحة | beraa7a | slowly / gently / take it easy | adverb | adjectives | براحه | براحة عليا! | Go easy on me! |
+تمرين | tamreen | exercise / workout / practice | noun | nouns | التمرين,تمارين | التمرين كان صعب. | The workout was hard. |
+ضهر | ḍahr | back (body) | noun | body |  | ضهري بيوجعني. | My back hurts. |
+الضهر | eḍḍohr | noon / midday prayer | noun | time | ضهر | | |
+رجل | regl | leg / foot | noun | body | رجلي,رجلين | | |
+دراع | deraa3 | arm | noun | body | دراعي | | |
+راس | raas | head | noun | body | راسي,دماغ | | | دماغ = head / brain (colloquial).
+عين | 3een | eye | noun | body | عينيا,عيون | | | العين السخنة = Ain Sokhna.
+إيد | eed | hand | noun | body | ايد,ايدي,إيديا | تسلم إيدك. | Bless your hands (thanks for cooking). |
+وش | wešš | face | noun | body | وشي,وشك | | |
+جماعة | gamaa3a | guys / group | noun | nouns | جماعه,يا جماعة | يا جماعة، اسمعوا! | Guys, listen! |
+اتفرج / يتفرج | etfarrag / yetfarrag | watch | verb | verbs | اتفرجت,يتفرج,تتفرج,هتتفرج,بتفرج | بتتفرج على إيه؟ | What are you watching? |
+تيك أواي | take-away | takeaway | expression | food | تيك اواي | | |
+على الأقل | 3ala ela2all | at least | expression | connectors | على الاقل | | |
+عيب | 3eeb | shameful / not polite | adjective | expressions |  | عيب كده! | That's not nice! |
+ولا يهمك | wala yhemmak | no worries | expression | expressions |  | | |
+حاسس | 7aases | feeling | participle | verbs | حاسة,حاسين | حاسس إني تعبان. | I feel tired. |
+واضح | waaḍe7 | clear / obvious | adjective | adjectives | واضحة | | | واضح إن... = it's clear that...
+بسيط | baseeṭ | simple | adjective | adjectives | بسيطة | | |
+دراسة | deraasa | studies / studying | noun | university | دراسه,الدراسة | | |
+درس / يدرس | daras / yedros | study (at uni) | verb | verbs | درست,بدرس,بيدرس,بتدرس | بتدرس إيه؟ | What do you study? |
+محشي | ma7shi | stuffed vegetables | noun | food |  | | |
+شاورما | shawerma | shawarma | noun | food | شاورمة | | |
+سوبرماركت | supermarket | supermarket | noun | places |  | | |
+زار / يزور | zaar / yezoor | visit | verb | verbs | زرت,يزور,زيارة | | |
+قلقان | 2al2aan | worried | adjective | adjectives | قلقانة,قلق,هتقلق,تقلق | | |
+ساكت | saaket | quiet / silent | adjective | adjectives | ساكتة,ساكتين,سكت,سكتت,اسكت | ساكت ليه؟ | Why are you quiet? | اسكت! = shut up / you won't believe it!
+قبل / يقبل | 2ebel / ye2bal | accept | verb | verbs | قبلت,بيقبل | | | Different from قبل (before).
+تأخير | ta2kheer | delay | noun | nouns | تاخير,التاخير | | |
+خاطر | khaaṭer | sake | noun | expressions | خاطري,خاطرك | عشان خاطري. | For my sake. |
+شرح / يشرح | shara7 / yeshra7 | explain | verb | verbs | شرحت,يشرح,اشرحلك | | |
+معقد | me3a22ad | complicated | adjective | adjectives | معقدة | | |
+فضي / يفضى | feḍi / yefḍa | become free | verb | verbs | تفضى,فضيت | | |
+استعجال | este3gaal | rush | noun | nouns |  | | |
+مصمم | meṣammem | insistent / determined | adjective | adjectives | مصممين,مصممة | | |
+عاجب | 3aageb | pleasing (to) | participle | verbs | عاجبك,عاجبني,عاجبه,عجب,عجبك,عجبتك,عجبني | الأكل عاجبك؟ | Do you like the food? | Literally "pleasing you": the THING is the subject.
+نوم | noom | sleep | noun | nouns | النوم | | |
+توقيت | taw2eet | timing | noun | nouns |  | | |
+حل / يحل | 7all / ye7ell | solve / solution | verb | verbs | حليت,يحل,احل,يتحل | | |
+اشتكى | eshtaka | complain | verb | verbs | يشتكي,تشتكي,شكوى | | |
+كبر / يكبر | kebir / yekbar | grow / get bigger | verb | verbs | تكبر,كبرت | | |
+فوت / يفوت | fawwet / yfawwet | miss / skip | verb | verbs | افوت,فوت | | |
+عطلان | 3aṭlaan | broken (not working) | adjective | adjectives | عطلانة,عطل | | |
+قاصد | 2aaṣed | meaning to (intentional) | participle | verbs | قاصدة | مكنتش قاصد. | I didn't mean to. |
+متضايق | metḍaaye2 | annoyed | adjective | adjectives | متضايقة | | |
+قام / يقوم | 2aam / ye2oom | get up / stand up | verb | verbs | قوم,قومي,قمت | | |
+أبو | abu | father (of) | noun | family | ابو,أبوه,ابوه,أبويا,ابويا | | | أبويا = my father.
+اتلغى | etlagha | be cancelled | verb | verbs | اتلغت,اتلغي | | |
+شركة | sherka | company | noun | places | شركه | | |
+سعيد | sa3eed | happy | adjective | adjectives | سعيدة,أسعد | فرصة سعيدة. | Nice to meet you. |
+رقم | ra2am | number | noun | numbers | رقمي,رقمك,أرقام | | |
+فطر / يفطر | feṭer / yefṭar | have breakfast | verb | verbs | فطرت,بفطر | | |
+اتناشر | etnaashar | twelve | number | numbers |  | | |
+حداشر | 7edaashar | eleven | number | numbers |  | | |
+عشرين | 3eshreen | twenty | number | numbers |  | | |
+تلاتين | talateen | thirty | number | numbers |  | | |
+خمسين | khamseen | fifty | number | numbers |  | | |
+بينا | beena | let's go (us) | expression | expressions | يلا بينا | | |
+علبة | 3elba | box / pack | noun | nouns | علبه | | |
+شطة | shaṭṭa | hot sauce | noun | food | شطه | | |
+ألو | aloo | hello (phone) | expression | expressions | الو | | |
+سلم / يسلم | sallem / ysallem | greet / hand over | verb | verbs | سلميلي,سلملي,بتسلم | سلملي على أهلك. | Say hi to your family for me. |
+وري / يوري | warra / ywarri | show | verb | verbs | وريني,وريلي | وريني كده. | Show me. |
+القمة | el2emma | the derby / the summit | noun | sports | القمه | | |
+ترابيزة | tarabeeza | table | noun | nouns | ترابيزه,الترابيزة | | |
+قرر / يقرر | 2arrar / y2arrar | decide | verb | verbs | قررت,قررنا | | |
+قطر | 2aṭr | train | noun | travel | القطر | | |
+هزر / يهزر | hazzar / yhazzar | joke | verb | verbs | بهزر,ونهزر,بتهزر,بتهزري,بيهزر | بهزر معاك! | I'm joking with you! |
+مفتاح | moftaa7 | key | noun | nouns | المفاتيح,مفاتيح | | |
+مطبخ | maṭbakh | kitchen | noun | places |  | | |
+بنطلون | banṭaloon | trousers | noun | nouns |  | | |
+جيب | geeb | pocket | noun | nouns |  | | | Also "bring!" (جيب) — context.
+كرم | karam | generosity | noun | nouns |  | | |
+لوكيشن | location | location | noun | nouns |  | | |
+جروب | groop | group (chat) | noun | slang |  | | |
+عيان | 3ayyaan | sick | adjective | adjectives | عيانة,عيانين | | |
+ميوت | myoot | mute(d) | adjective | slang |  | | |
+مكتبة | maktaba | library / bookshop | noun | places | مكتبه | | |
+وعد / يوعد | wa3ad / yew3ed | promise | verb | verbs | اوعدك,وعدتك | | |
+أمر | amr | order / command | noun | nouns | امرك | | |
+طالب | ṭaaleb | ordered / student | participle | nouns | طالبة | أنا طالب في الجامعة. | I'm a student at the university. |
+طبق | ṭaba2 | plate | noun | food |  | | |
+آسف | aasef | sorry | adjective | expressions | اسف,آسفة | | |
+اتلخبط | etlakhbaṭ | get mixed up | verb | verbs | ملخبط | | |
+مشوي | mashwi | grilled | adjective | food | مشوية | | |
+ناشف | naashef | dry / stubborn | adjective | adjectives | ناشفة | | |
+ساقع | saa2e3 | cold (drink) | adjective | adjectives | ساقعة | حاجة ساقعة. | A cold drink. |
+ذوق | zoo2 | taste / kindness | noun | nouns |  | | |
+صرف / يصرف | ṣaraf / yeṣref | spend | verb | verbs | صرفت,هنصرف | | |
+قسم / يقسم | 2assem / y2assem | split / divide | verb | verbs | هنقسم | | |
+بنزين | banzeen | petrol | noun | nouns |  | | |
+شاليه | shaleeh | chalet | noun | travel |  | | |
+بطال | baṭṭaal | bad (mesh baṭṭaal = not bad) | adjective | adjectives |  | مش بطال. | Not bad. |
+سواق | sawwaa2 | driver | noun | travel | للسواق | | |
+ساق / يسوق | saa2 / yesoo2 | drive | verb | verbs | يسوق | | |
+خير | kheer | good (is everything OK?) | noun | expressions |  | خير؟ | Is everything OK? |
+أسطى | osṭa | driver / master craftsman | noun | slang | اسطى | | |
+صدمة | ṣadma | shock | noun | nouns | الصدمة | | |
+أجرة | ogra | fare | noun | travel | الاجرة | | |
+أغلى | aghla | more expensive | adjective | adjectives | اغلى | | |
+أحلى | a7la | nicer / best | adjective | adjectives | احلى | | |
+مشوار | meshwaar | errand / ride | noun | nouns |  | | |
+بروتين | protein | protein | noun | food |  | | |
+زود / يزود | zawwed / yzawwed | increase | verb | verbs | زيادة,الزيادة | | |
+بيض | beeḍ | eggs | noun | food |  | | |
+سيدي | seedi | sir / mate (ya seedi) | noun | slang |  | | |
+إيجار | egaar | rent | noun | nouns | الايجار | | |
+اتجنن | etgannen | go crazy | verb | verbs | مجنون | | |
+حاج | 7aagg | Hajj (older man address) | noun | slang |  | | |
+مكتوب | maktoob | written / fated | adjective | adjectives |  | | |
+محامي | mo7aami | lawyer | noun | nouns | المحامي | | |
+حظ | 7aẓẓ | luck | noun | nouns | حظه,حظي | | |
+اتحرك | et7arrak | move | verb | verbs | متحرك | | |
+اتحاسب | et7aaseb | be held to account / pay | verb | verbs | يتحاسب | | |
+هدي | hedi | calm down | verb | verbs | اهدى,اهدا | اهدى شوية! | Calm down a bit! |
+وقع / يقع | we2e3 / yo2a3 | fall | verb | verbs | وقعت | | |
+لمس | lamas | touch | verb | verbs | لمسه | | |
+اتأكد | et2akked | make sure | verb | verbs | واتأكد | | |
+اعترف | e3taraf | admit | verb | verbs | تعترف | | |
+معمول | ma3mool | made | participle | verbs |  | | |
+نظرية | naẓareyya | theory | noun | nouns | بنظرية | | |
+مؤامرة | mo2amra | conspiracy | noun | nouns | موامره | | |
+خط | khaṭṭ | line | noun | nouns |  | خط الوسط | midfield |
+وسط | wesṭ | middle | noun | nouns | الوسط | | |
+تغيير | taghyeer | change / substitution | noun | nouns | التغييرات | | |
+أخيراً | akheeran | finally | adverb | connectors | اخيرا | | |
+حلقة | 7al2a | episode / ring | noun | nouns | حلقه | | |
+طبيعي | ṭabee3i | natural / normal | adjective | adjectives | طبيعية | | |
+ترجم | targem | translate | verb | verbs | بيترجم | | |
+جملة | gomla | sentence | noun | nouns | الجملة | | |
+دمج | damag | merge | verb | verbs | بيدمجوا | | |
+حفظ / يحفظ | 7afaẓ / ye7faẓ | memorise | verb | verbs | تحفظ | | |
+ودن | wedn | ear | noun | body | ودنك,ودني | | |
+اتعود / يتعود | et3awwed | get used to | verb | verbs | تتعود | | |
+نتيجة | nateega | result | noun | nouns | النتيجة | | |
+فاجئ | faage2 | surprise | verb | verbs | هتفاجئك | | |
+مساء | masaa2 | evening | noun | time |  | | |
+جميل | gameel | beautiful | adjective | adjectives | جميلة | | |
+مهدود | mahdood | exhausted | adjective | adjectives |  | | |
+جري / يجري | geri / yegri | run | verb | verbs | جريوا,بيجري | | |
+مدام | madaam | madam | noun | nouns |  | | |
+بسط / يبسط | basaṭ / yebseṭ | make happy | verb | verbs | بيبسطني,بتبسطك | | |
+زعق / يزعق | za3a2 / yez3a2 | shout | verb | verbs | بتزعقلي,بيزعق | | |
+العفو | el3afw | you're welcome | expression | expressions |  | | |
+عدى / يعدي | 3adda / y3addi | pass by / pass | verb | verbs | هعدي,عديت | هعدي عليك. | I'll pass by you. |
+ملخص | molakhkhaṣ | summary | noun | university | الملخص | | |
+فاد / يفيد | faad / yefeed | benefit | verb | verbs | هيفيدك | | |
+أنقذ | an2az | save / rescue | verb | verbs | انقذتيني | | |
+سهر / يسهر | seher / yes-har | stay up | verb | verbs | تسهر,سهرنا | | |
+عذر | 3ozr | excuse | noun | nouns | اعذار | | |
+حبيب | 7abeeb | dear / loved one | noun | slang | حبايبي | | |
+مبارك | mobaarak | blessed | adjective | religion | مباركة | جمعة مباركة. | Blessed Friday. |
+نور | noor | light | noun | nouns | النور | صباح النور. | Good morning (reply). |
+طار / يطير | ṭaar / yeṭeer | fly | verb | verbs | هتطير | | |
+اتغدى | etghadda | have lunch | verb | verbs | اتغدي,يتغدى | | |
+مسدج | mesej | message (slang) | noun | slang | المسدجات | | |
+سين | seen | seen (read receipt) | noun | slang |  | عامل سين. | Left it on "seen". |
+اتصالح / يتصالح | etṣaala7 | make up | verb | verbs | ونتصالح | | |

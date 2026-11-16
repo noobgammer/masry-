@@ -1,0 +1,120 @@
+# Egyptian Arabic frequency vocabulary — Level 1 (ranks 1–100)
+# Format: arabic | translit | english | pos | category | variants (comma-separated forms) | example (Arabic) | example (English) | notes / variations
+# Line order = frequency rank. Verbs list past / present stem; variants feed the morphological analyzer.
+أنا | ana | I | pronoun | pronouns | انا | أنا من باكستان بس عشت في السعودية. | I'm from Pakistan but I lived in Saudi. | Often dropped when the verb already shows the person.
+إنت | enta | you (m.) | pronoun | pronouns | انت | إنت منين أصلاً؟ | Where are you originally from? | Pronounced "enta" or "enti"/"entu" for f./pl.
+إنتي | enti | you (f.) | pronoun | pronouns | انتي | إنتي فاضية النهارده؟ | Are you free today? | Spoken; in writing also انتي.
+هو | huwwa | he / it | pronoun | pronouns |  | هو فين دلوقتي؟ | Where is he now? | Used for masculine things too: الأكل؟ هو جاهز.
+هي | heyya | she / it | pronoun | pronouns |  | هي لسه في الشغل. | She's still at work. | Also used for feminine things and plurals of objects.
+إحنا | e7na | we | pronoun | pronouns | احنا | إحنا رايحين السينما. | We're going to the cinema. | MSA نحن is never used in speech.
+إنتو | entu | you (pl.) | pronoun | pronouns | انتو,انتم | إنتو جايين إمتى؟ | When are you (all) coming? | Written انتو or انتوا.
+هما | humma | they | pronoun | pronouns | هم | هما قالولي إنهم جايين. | They told me they're coming. | MSA هم sounds formal.
+ده | da | this / that (m.) | demonstrative | pronouns | دا | ده بتاعي. | This is mine. | Comes AFTER the noun: الكتاب ده = this book.
+دي | di | this / that (f.) | demonstrative | pronouns |  | البنت دي صاحبتي. | This girl is my friend. | Also used for plural things: الحاجات دي.
+دول | dool | these / those | demonstrative | pronouns |  | مين دول؟ | Who are those (people)? | Plural of people.
+مش | mesh | not | negation | negation | مِش | أنا مش فاهم. | I don't understand. | Negates adjectives, participles, nouns, future: مش هروح.
+لأ | la2 | no | particle | negation | لا,لاء | لأ، مش عايز. | No, I don't want (it). | لأ طبعاً = of course not.
+آه | aah | yeah / yes | particle | expressions | اه,اها | آه، فاهم. | Yeah, I understand. | Very common casual yes; also "ouch".
+أيوه | aywa | yes | particle | expressions | ايوة,ايوا | أيوه، أنا هنا. | Yes, I'm here. | Answering the phone: أيوه؟ = hello?
+إيه | eeh | what | question | questions | ايه | إنت بتعمل إيه؟ | What are you doing? | Goes at the END: اسمك إيه؟ Also "eh!" surprise.
+ليه | leeh | why | question | questions |  | ليه مجيتش امبارح؟ | Why didn't you come yesterday? | ليه لأ؟ = why not? Also "to him" (لِيه) in some contexts.
+فين | feen | where | question | questions |  | المفاتيح فين؟ | Where are the keys? | رايح فين؟ = where are you going?
+إمتى | emta | when (question) | question | questions | امتى | هتيجي إمتى؟ | When will you come? | For "when" in statements use لما.
+إزاي | ezzay | how | question | questions | ازاي | ده حصل إزاي؟ | How did this happen? | إزاي يعني؟ = what do you mean, how?
+مين | meen | who | question | questions |  | مين معايا؟ | Who's this? (on the phone) | Lit. "who is with me?"
+كام | kaam | how many / how much | question | questions |  | الساعة كام؟ | What time is it? | بكام ده؟ = how much is this?
+أنهي | anhi | which | question | questions | انهي,انهو,انهى | عايز أنهي واحد؟ | Which one do you want? | f. أنهي برضه; often pronounced "anhu".
+منين | mneen | from where | question | questions |  | إنت جاي منين؟ | Where are you coming from? | منين أصلاً؟ = where originally?
+كان / يكون | kaan / yekoon | was / used to / be | verb | verbs | كنت,كانت,كانوا,كنا,كنتي,كنتوا,يكون,تكون,نكون,اكون,بيكون,هيكون | كنت عايز أكلمك. | I wanted to talk to you. | كان + present = used to: كنت بروح كل يوم.
+عايز | 3aayez | want (m.) | participle | verbs | عاوز,عايزة,عايزه,عايزين,عاوزة,عاوزه,عاوزين | أنا عايز مية. | I want water. | f. عايزة (3ayza), pl. عايزين (3ayzeen).
+عمل / يعمل | 3amal / ye3mel | do / make | verb | verbs | عملت,عملنا,عملوا,عملتي,يعمل,تعمل,نعمل,اعمل,اعملي,عاملة | إنت عملت إيه النهارده؟ | What did you do today? | Also "act like": بيعمل نفسه مش فاهم.
+راح / يروح | raa7 / yerou7 | go | verb | verbs | روحت,رحت,راحت,راحوا,رحنا,يروح,تروح,نروح,اروح,روح,روحي,رايح,رايحة,رايحين | رايح فين كده؟ | Where are you off to? | روّح = go home; رايح = going (participle).
+جه / ييجي | geh / yeegi | come | verb | verbs | جيت,جات,جم,جينا,جيتي,ييجي,تيجي,نيجي,اجي,جاي,جاية,جايين | هو جه ولا لسه؟ | Has he come or not yet? | جاي = coming / next (الأسبوع الجاي).
+قال / يقول | 2aal / ye2ool | say / tell | verb | verbs | قلت,قالت,قالوا,قلنا,قولت,يقول,تقول,نقول,اقول,قول,قولي,قولتلك | قولتلك امبارح! | I told you yesterday! | قالّي = he told me. بيقولوا = they say / people say.
+عرف / يعرف | 3eref / ye3raf | know / can | verb | verbs | عرفت,عرفوا,يعرف,تعرف,نعرف,اعرف,عارف,عارفة,عارفين | إنت عارف هو فين؟ | Do you know where he is? | مش عارف = I don't know; also "can": مش عارف أنام.
+شاف / يشوف | shaaf / yeshoof | see / look | verb | verbs | شفت,شافت,شافوا,شفنا,يشوف,تشوف,نشوف,اشوف,شوف,شوفي,شايف,شايفة | شفت الماتش امبارح؟ | Did you see the match yesterday? | شوف = look!; شايف؟ = you see? (filler)
+بقى / يبقى | ba2a / yeb2a | become / be / so then | verb | verbs | بقيت,بقت,بقوا,يبقى,تبقى,نبقى,ابقى | الجو بقى حر أوي. | The weather has become really hot. | Filler: يلا بقى! = come on already! ابقى كلمني = call me (later).
+خد / ياخد | khad / yaakhod | take | verb | verbs | خدت,خدنا,خدوا,ياخد,تاخد,ناخد,اخد,خدي | خد ده معاك. | Take this with you. | خد بالك = take care / watch out.
+إدى / يدي | edda / yeddi | give | verb | verbs | اديت,ادت,ادوا,يدي,تدي,ندي,ادي,اديني,اديله | اديني الموبايل لو سمحت. | Give me the phone please. | Pronounced "eddi-ni".
+حب / يحب | 7abb / ye7ebb | love / like | verb | verbs | حبيت,حبت,يحب,تحب,نحب,احب,بحب | بتحب الكورة؟ | Do you like football? | تحب تشرب إيه؟ = what would you like to drink?
+أكل / ياكل | akal / yaakol | eat; food (akl) | verb | verbs | كلت,اكلت,كلنا,اكلوا,ياكل,تاكل,ناكل,كل,كلي | كلت ولا لسه؟ | Have you eaten yet? | الأكل (el-akl) = food.
+شرب / يشرب | shereb / yeshrab | drink | verb | verbs | شربت,شربوا,يشرب,تشرب,نشرب,اشرب | تشرب شاي؟ | Will you have some tea? | Also "smoke": بيشرب سجاير.
+نام / ينام | naam / yenaam | sleep | verb | verbs | نمت,نامت,ناموا,ينام,تنام,ننام,انام,نايم,نايمة | نمت متأخر امبارح. | I slept late yesterday. | نايم = asleep.
+صحي / يصحى | se7i / yes7a | wake up | verb | verbs | صحيت,صحيت,صحيوا,يصحى,تصحى,اصحى,صاحي | بصحى بدري كل يوم. | I wake up early every day. | صاحي؟ = are you awake?
+اشتغل / يشتغل | eshtaghal / yeshtaghal | work | verb | verbs | اشتغلت,اشتغلوا,يشتغل,تشتغل,نشتغل,اشتغل,شغال,شغالة | بتشتغل فين؟ | Where do you work? | شغال = working / functioning (الواي فاي مش شغال).
+فهم / يفهم | fehem / yefham | understand | verb | verbs | فهمت,فهموا,يفهم,تفهم,نفهم,افهم,فاهم,فاهمة,فاهمين | فاهم قصدي؟ | Do you get what I mean? | فهمتني؟ = did you understand me?
+استنى / يستنى | estanna / yestanna | wait | verb | verbs | استنيت,استنوا,يستنى,تستنى,استنى,استني,مستني | استنى ثانية! | Wait a second! | مستنيك = I'm waiting for you.
+كلم / يكلم | kallem / ykallem | talk to / call | verb | verbs | كلمت,كلمني,يكلم,تكلم,نكلم,اكلم | كلمني لما توصل. | Call me when you arrive. | Takes a direct object: كلمته = I called him.
+اتكلم / يتكلم | etkallem / yetkallem | speak / talk | verb | verbs | اتكلمت,اتكلموا,يتكلم,تتكلم,نتكلم,اتكلم | بتتكلم عربي كويس! | You speak Arabic well! | اتكلم مع = talk with.
+قعد / يقعد | 2a3ad / yo23od | sit / stay / keep doing | verb | verbs | قعدت,قعدوا,يقعد,تقعد,نقعد,اقعد,اقعدي,قاعد,قاعدة | قعدنا نتكلم لحد الصبح. | We kept talking until morning. | قاعد = sitting / staying; قعد + verb = kept doing.
+خرج / يخرج | kharag / yokhrog | go out | verb | verbs | خرجت,خرجوا,يخرج,تخرج,نخرج,اخرج,خارج | هنخرج بالليل. | We'll go out tonight. | خروجة = an outing.
+لازم | laazem | must / have to | modal | verbs |  | لازم أمشي دلوقتي. | I have to go now. | مش لازم = no need.
+ممكن | momken | possible / could / may I | modal | verbs |  | ممكن أسألك سؤال؟ | Can I ask you a question? | Polite request opener; also "maybe".
+قدر / يقدر | 2eder / ye2dar | can / be able | verb | verbs | قدرت,يقدر,تقدر,نقدر,اقدر,قادر | مش هقدر آجي النهارده. | I won't be able to come today. | Use مش قادر = I can't (physically / emotionally).
+في | fi | in / at | preposition | prepositions | فيا,فيك,فيكي,فيها,فينا,فيكو,فيهم | أنا في البيت. | I'm at home. | Also "there is" (see فيه).
+من | men | from / of | preposition | prepositions | مني,منك,منه,منها,مننا,منكو,منهم,منكم | جاي من الشغل. | Coming from work. | من غير = without; من زمان = for a long time.
+على | 3ala | on / about / to | preposition | prepositions | ع,ع,عليا,عليك,عليكي,عليه,عليها,علينا,عليكو,عليهم | الموبايل على الترابيزة. | The phone is on the table. | Shortened to ع in speech/text: ع الشغل.
+مع | ma3a | with | preposition | prepositions | معايا,معاك,معاكي,معاه,معاها,معانا,معاكو,معاهم | رايح مع صحابي. | Going with my friends. | معايا = with me; معاك فلوس؟ = do you have money on you?
+عند | 3and | at (someone's) / have | preposition | prepositions | عندي,عندك,عندكي,عنده,عندها,عندنا,عندكو,عندهم | عندي امتحان بكره. | I have an exam tomorrow. | عندي = I have; عند ماما = at mum's.
+بتاع | betaa3 | belonging to / thing | particle | connectors | بتاعة,بتاعت,بتوع,بتاعي,بتاعك,بتاعتي,بتاعتك,بتاعه,بتاعها,بتاعنا | ده الموبايل بتاعي. | This is my phone. | Also "thingy": هات البتاع ده.
+اللي | elli | who / that / which | connector | connectors | الي,إللي | الواد اللي قابلناه امبارح. | The guy (that) we met yesterday. | Relative pronoun; also "whatever / whoever": اللي إنت عايزه.
+عشان | 3ashaan | because / so that / for | connector | connectors | علشان | مجيتش عشان كنت تعبان. | I didn't come because I was tired. | عشان + verb = in order to; عشانك = for you.
+بس | bass | but / only / enough | connector | connectors |  | كنت عايز آجي بس معرفتش. | I wanted to come but I couldn't. | بس كده؟ = that's it?; بس! = stop!
+يعني | ya3ni | I mean / like / so | filler | connectors |  | يعني إنت مش جاي؟ | So you're not coming? | Filler like "like / you know"; يعني إيه؟ = what does it mean?
+لما | lamma | when (statement) | connector | connectors |  | لما أوصل هكلمك. | When I arrive I'll call you. | Never for questions (use إمتى).
+لو | law | if | connector | connectors |  | لو فاضي تعالى. | If you're free, come over. | لو سمحت = please.
+كده | keda | like this / so / thus | adverb | connectors | كدا | ليه بتعمل كده؟ | Why are you doing this? | كده كده = anyway; أحسن كده = it's better this way.
+برضه | bardo | also / still / anyway | adverb | connectors | برضو,برده | أنا برضه مش فاهم. | I don't understand either. | Often "still/after all": برضه مجاش = he still didn't come.
+لسه | lessa | still / not yet / just | adverb | connectors | لسة | لسه صاحي. | I just woke up. | لسه + negative: لسه مخلصتش = I haven't finished yet.
+خلاص | khalaas | done / that's it / OK then | particle | connectors |  | خلاص، نتقابل بكره. | OK then, let's meet tomorrow. | خلّصت؟ = did you finish? خلاص بقى = enough already.
+حتى | 7atta | even | connector | connectors |  | حتى أخوه مجاش. | Even his brother didn't come. | حتى لو = even if.
+ولا | walla | or (in questions) / nor | connector | connectors |  | شاي ولا قهوة؟ | Tea or coffee? | ولا حاجة = nothing at all; ولا إيه؟ = or what?
+أو | aw | or (statements) | connector | connectors | او | ممكن بكره أو بعده. | Maybe tomorrow or the day after. | Questions usually use ولا.
+بعدين | ba3deen | later / then / and then | adverb | time |  | هكلمك بعدين. | I'll call you later. | وبعدين؟ = and then? / what now?
+دلوقتي | dilwa2ti | now | adverb | time | دلوقت | أنا مشغول دلوقتي. | I'm busy now. | MSA الآن sounds formal.
+النهارده | ennaharda | today | adverb | time | النهاردة | النهارده الجو حلو. | The weather is nice today. |
+بكره | bokra | tomorrow | adverb | time | بكرة | نتقابل بكره. | Let's meet tomorrow. | بعد بكره = the day after tomorrow.
+امبارح | embaare7 | yesterday | adverb | time | إمبارح | امبارح نمت بدري. | Yesterday I slept early. | أول امبارح = the day before yesterday.
+كل | koll | every / all / whole | quantifier | adjectives |  | كل يوم بروح الجيم. | I go to the gym every day. | كله = all of it / everything; كل حاجة = everything.
+حاجة | 7aaga | thing / something | noun | nouns | حاجه,حاجات | عايز أقولك حاجة. | I want to tell you something. | ولا حاجة = nothing; حاجة تانية = something else.
+كتير | keteer | a lot / many / very | adverb | adjectives |  | بحبك كتير. | I love you a lot. | Also "too much": ده كتير!
+شوية | shwayya | a little / a while | adverb | adjectives | شويه | استنى شوية. | Wait a bit. | شوية شوية = little by little.
+أوي | awi | very / really | adverb | adjectives | اوي,قوي | الأكل حلو أوي. | The food is really good. | Comes after the adjective.
+حلو | 7elw | nice / sweet / good | adjective | adjectives | حلوة,حلوه,حلوين | فكرة حلوة! | Nice idea! | Also "pretty" for people.
+كويس | kwayyes | good / fine / well | adjective | adjectives | كويسة,كويسه,كويسين | إنت كويس؟ | Are you OK? | كويس إنك جيت = good that you came.
+وحش | we7esh | bad / ugly | adjective | adjectives | وحشة,وحشه | الفيلم كان وحش. | The film was bad. | وحشتني = I missed you (different root use!).
+جامد | gaamed | awesome / tough / strong | adjective | slang | جامدة,جامده | الماتش كان جامد! | The match was awesome! | Slang praise; also "hard/solid".
+تمام | tamaam | OK / fine / perfect | particle | expressions |  | تمام، اتفقنا. | OK, deal. | تمام؟ = alright? / everything good?
+ماشي | maashi | OK / alright | particle | expressions |  | ماشي، أشوفك بكره. | Alright, see you tomorrow. | Lit. "walking"; ماشي = I'm leaving too.
+يلا | yalla | come on / let's go | particle | expressions | يالا,يللا | يلا بينا! | Let's go! | يلا بقى = come on already.
+طب | ṭab | well / OK then | filler | connectors |  | طب وأنا مالي؟ | Well, what's that got to do with me? | Shortened طيب; starts a reaction.
+طيب | ṭayyeb | OK / well / kind | particle | connectors | طيبة | طيب، هشوف وأقولك. | OK, I'll see and let you know. | As adjective: kind-hearted.
+إزيك | ezzayak | how are you | expression | expressions | ازيك,ازيكو,إزيكم | إزيك يا صاحبي؟ | How are you, buddy? | to a woman: ezzayek; group: ezzayoko.
+عامل إيه | 3aamel eeh | how are you doing (m.) | expression | expressions | عاملة ايه | عامل إيه في الشغل الجديد؟ | How are you doing in the new job? | f. عاملة إيه (3amla eeh).
+الحمد لله | el7amdulellah | thank God / I'm fine | expression | expressions | الحمدلله | الحمد لله، تمام. | Thank God, all good. | Standard answer to "how are you".
+إن شاء الله | in shaa2 allaah | God willing / hopefully | expression | expressions | ان شاء الله,انشاءالله | هاجي إن شاء الله. | I'll come, God willing. | Can mean a soft "maybe".
+شكراً | shokran | thanks | expression | expressions | شكرا | شكراً يا باشا. | Thanks, boss. | ميرسي (mersi) is common too.
+معلش | ma3lesh | sorry / never mind | expression | expressions | معلش,معلهش | معلش، اتأخرت. | Sorry, I'm late. | Comforting: "it's OK"; asking a favour: معلش ممكن...
+لو سمحت | law sama7t | please / excuse me | expression | expressions | لو سمحتي | لو سمحت، المحطة فين؟ | Excuse me, where's the station? | f. لو سمحتي.
+فيه | fih | there is / there are | particle | verbs |  | فيه مشكلة؟ | Is there a problem? | Past: كان فيه; future: هيبقى فيه.
+مفيش | mafeesh | there isn't / no | negation | negation | مافيش | مفيش مشكلة. | No problem. | مفيش حاجة = it's nothing.
+حد | 7add | someone / anyone | pronoun | pronouns |  | فيه حد هنا؟ | Is anyone here? | محدش = nobody.
+هنا | hena | here | adverb | prepositions |  | تعالى هنا. | Come here. | من هنا = this way.
+هناك | henaak | there | adverb | prepositions |  | هو قاعد هناك. | He's sitting over there. |
+واحد | waa7ed | one / a (person) / some guy | number | numbers | واحدة,واحده | واحد صاحبي قالي. | A friend of mine told me. | واحدة واحدة = slowly / easy.
+تاني | taani | again / second / other | adjective | adjectives | تانية,تانيه,تانيين | قولها تاني. | Say it again. | حاجة تانية = something else.
+أحسن | a7san | better / best | adjective | adjectives | احسن | كده أحسن. | It's better this way. | أحسن حاجة = the best thing.
+بيت | beet | house / home | noun | nouns | البيت,بيوت | أنا راجع البيت. | I'm going back home. |
+يوم | yoom | day | noun | time | ايام,أيام,يومين | يوم حلو! | A nice day! | كل يوم = every day; يومين = two days.
+وقت | wa2t | time | noun | time | اوقات | معنديش وقت. | I don't have time. | في وقت = on time; فيه وقت = there's time.
+ناس | naas | people | noun | nouns |  | فيه ناس كتير هنا. | There are lots of people here. |
+صاحب | saa7eb | friend / owner | noun | nouns | صاحبي,صاحبة,صاحبتي,صحاب,صحابي | ده صاحبي من الجامعة. | This is my friend from university. | صحاب = friends; صاحب المحل = shop owner.
+فلوس | feloos | money | noun | nouns |  | معاكش فلوس؟ | Don't you have money on you? | Plural noun.
+شغل | shoghl | work / job | noun | nouns | الشغل | أنا رايح الشغل. | I'm going to work. | شغلك إيه؟ = what's your job?
+كلام | kalaam | talk / words / speech | noun | nouns |  | كلامك صح. | What you're saying is right. | كلام فاضي = nonsense.
+حاجات | 7agaat | things | noun | nouns |  | جبت حاجات للبيت. | I got some things for the house. | Plural of حاجة.
+أصل | aṣl | because (you see) / origin | connector | connectors | اصل,أصلاً,اصلا | مش هاجي، أصل عندي امتحان. | I won't come, you see I have an exam. | أصلاً = actually / originally / at all.
+إن | enn | that (conjunction) | connector | connectors | ان,إنه,انه,إنها,انها,إنك,انك,إني,اني | عارف إنه جاي. | I know that he's coming. | Takes pronoun endings: إني = that I.
+زي | zayy | like / as | preposition | connectors |  | زي ما قلتلك. | Like I told you. | زي بعض = the same; زي كده = like this.
+أكتر | aktar | more / most | adverb | adjectives | اكتر | عايز أعرف أكتر. | I want to know more. | أكتر حاجة = the thing ... most.
+خالص | khaaleṣ | at all / completely | adverb | negation |  | مش فاهم خالص. | I don't understand at all. | With positive: كويس خالص = really fine.

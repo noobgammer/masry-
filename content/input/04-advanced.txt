@@ -1,0 +1,94 @@
+# Comprehensible input — UPPER INTERMEDIATE (4) and ADVANCED (5)
+# Natural speed, fillers, slang, false starts, longer turns.
+
+=== landlord-drama
+title: The landlord problem
+title_ar: صاحب الشقة
+difficulty: 4
+topic: daily life
+kind: dialogue
+---
+A(m): يا عم إنت فين؟ بقالي ساعة برن عليك. | Man, where are you? I've been calling you for an hour.
+B(m): معلش معلش، كنت في نص خناقة مع صاحب الشقة. | Sorry sorry, I was in the middle of a fight with the landlord.
+A(m): خناقة؟ ليه، حصل إيه؟ | A fight? Why, what happened?
+B(m): بص يا سيدي، الراجل ده كل شوية يطلع بحكاية جديدة. المرة دي عايز يزود الإيجار ألف جنيه مرة واحدة. | Look mate, this guy comes up with a new story every so often. This time he wants to raise the rent by a thousand pounds all at once.
+A(m): ألف جنيه؟! ده اتجنن ولا إيه؟ | A thousand pounds?! Has he gone mad or what?
+B(m): ما هو ده اللي أنا قولتهوله! قولتله يا حاج، العقد مكتوب فيه إن الزيادة عشرة في المية بس، فقالي... استنى أقولك قالي إيه... قالي "العقد ده كان زمان، الدنيا اتغيرت." | That's exactly what I told him! I told him, Hajj, the contract says the increase is only ten percent, so he said... wait till I tell you what he said... he said "that contract was back then, the world has changed."
+
+A(m): يا سلام! وإنت عملت إيه؟ | Oh really! And what did you do?
+B(m): ولا حاجة، قولتله هكلم المحامي وأرد عليك. هو أصلاً عارف إن مالوش حق، بس بيجرب حظه. | Nothing, I told him I'll talk to the lawyer and get back to him. He knows he has no right anyway, he's just trying his luck.
+A(m): طب ما تيجي تقعد عندي كام يوم لحد ما الموضوع يتحل؟ | Why don't you come stay at mine a few days until it gets sorted?
+B(m): لأ، كده هيفتكر إني سبتله الشقة. أنا قاعد ومش متحرك، خليه يعمل اللي هو عايزه. | No, then he'll think I've left the flat to him. I'm staying put, let him do whatever he wants.
+---
+? صاحب الشقة عايز إيه؟ | What does the landlord want? | يزود الإيجار ألف جنيه | يطرده من الشقة | يبيع الشقة | يغير العقد لعشرة في المية
+? العقد بيقول إيه؟ | What does the contract say? | الزيادة عشرة في المية بس | مفيش زيادة خالص | الزيادة ألف جنيه | العقد خلص
+? ليه مش عايز يقعد عند صاحبه؟ | Why doesn't he want to stay at his friend's? | عشان صاحب الشقة هيفتكر إنه سابها | عشان بيت صاحبه بعيد | عشان المحامي قاله لأ | عشان مش بيحب صاحبه
+? إيه معنى "بيجرب حظه"؟ | What does "trying his luck" mean here? | بيحاول يمكن ينجح مع إنه عارف إنه غلط | بيلعب قمار | عنده حق | خايف من المحامي
+
+=== match-analysis
+title: Post-match rant
+title_ar: تحليل الماتش على القهوة
+difficulty: 4
+topic: football
+kind: dialogue
+---
+A(m): لأ لأ لأ، الحكم ده لازم يتحاسب، أنا مش قادر أصدق اللي حصل. | No no no, this referee has to be held accountable, I can't believe what happened.
+B(m): يا عم اهدى شوية، دي كانت بلنتي واضحة. | Man, calm down a bit, that was a clear penalty.
+A(m): واضحة إيه بس؟ ده الواد وقع لوحده! ده محدش لمسه أصلاً! | Clear what? The guy fell on his own! Nobody even touched him!
+B(m): يا حبيبي الفار شافها واتأكد. إنت بس عشان زملكاوي مش عايز تعترف. | Mate, VAR saw it and confirmed. You just don't want to admit it because you're a Zamalek fan.
+A(m): الفار؟ الفار ده أصلاً معمول عشان الأهلي يا عم، كله عارف كده. | VAR? VAR was made for Ahly anyway, man, everyone knows that.
+B(m): أهو بقى! كل ما تخسروا تطلعولنا بنظرية مؤامرة جديدة. | There we go! Every time you lose you come up with a new conspiracy theory.
+
+A(m): طيب سيبك من البلنتي. خط الوسط بتاعنا كان نايم طول الشوط التاني. المدرب ده لازم يمشي. | OK forget the penalty. Our midfield was asleep the whole second half. That coach has to go.
+B(m): هنا بقى عندك حق، أنا معاك. التغييرات كانت متأخرة جداً. | Now here you've got a point, I'm with you. The substitutions were very late.
+A(m): الحمد لله، أخيراً اتفقنا على حاجة. | Thank God, finally we agree on something.
+---
+? A زعلان من مين في الأول؟ | Who is A upset with at first? | الحكم | المدرب | اللاعيبة | صاحبه
+? B رأيه إيه في البلنتي؟ | What's B's opinion on the penalty? | بلنتي واضحة | مكانتش بلنتي | مش متأكد | الفار غلط
+? اتفقوا في الآخر على إيه؟ | What did they agree on in the end? | التغييرات كانت متأخرة | الحكم غلط | الفار معمول للأهلي | المدرب كويس
+
+=== podcast-learning
+title: Podcast: Why learning a language is hard
+title_ar: بودكاست: ليه تعلم اللغات صعب
+difficulty: 5
+topic: podcast
+kind: story
+---
+N(m): أهلاً بيكم في حلقة جديدة. النهارده عايز أتكلم عن حاجة، يعني، كلنا عدينا بيها. | Welcome to a new episode. Today I want to talk about something that, like, we've all been through.
+N(m): إنك تبقى فاهم الكلام وإنت بتقراه، بس أول ما حد يكلمك بسرعة... خلاص، المخ بيقف. | Understanding words when you read them, but as soon as someone talks to you fast... that's it, the brain freezes.
+N(m): وده طبيعي جداً على فكرة. السبب إن المخ لسه بيترجم، بيحاول ياخد كل كلمة لوحدها ويفهمها، وبعدين يركب الجملة. | And that's totally normal by the way. The reason is the brain is still translating, trying to take each word alone, understand it, and then build the sentence.
+
+N(m): بس الناس في الحقيقة مش بيتكلموا كلمة كلمة. بيدمجوا الكلام في بعضه. يعني مثلاً، "ما تقوليش" بتطلع "متئوليش"، و"إنت عامل إيه" بتطلع "عامِلِيه". | But in reality people don't speak word by word. They merge speech together. For example, "ma t2ulish" comes out "mat2uleesh", and "enta 3aamel eeh" comes out "3amleeh".
+N(m): فالحل مش إنك تحفظ كلمات أكتر، الحل إنك تسمع كتير. كتير جداً. لحد ما ودنك تتعود على الشكل ده. | So the solution isn't memorising more words, the solution is listening a lot. A LOT. Until your ear gets used to this shape.
+N(m): وحاجة كمان مهمة: متخافش إنك متفهمش كل حاجة. لو فاهم سبعين في المية، ده كويس جداً، والباقي هييجي مع الوقت. | And another important thing: don't be afraid of not understanding everything. If you understand seventy percent, that's very good, and the rest will come with time.
+N(m): المهم إنك تكمل. كل يوم شوية، حتى لو عشر دقايق. والنتيجة هتفاجئك، صدقني. | The important thing is to keep going. A bit every day, even if just ten minutes. And the result will surprise you, believe me.
+---
+? حسب البودكاست، ليه المخ بيقف لما حد بيتكلم بسرعة؟ | According to the podcast, why does the brain freeze with fast speech? | عشان لسه بيترجم كلمة كلمة | عشان الكلمات صعبة | عشان مش بنسمع كويس | عشان اللهجة غريبة
+? إيه الحل اللي اقترحه؟ | What solution did he propose? | تسمع كتير جداً | تحفظ كلمات أكتر | تقرا كتب | تتكلم بسرعة
+? لو فاهم سبعين في المية، ده معناه إيه حسب المتكلم؟ | If you understand 70%, what does that mean according to the speaker? | كويس جداً | لازم تبتدي من الأول | وحش | محتاج تحفظ أكتر
+
+=== street-interview
+title: Street interview: What makes you happy?
+title_ar: سؤال في الشارع: إيه اللي بيبسطك؟
+difficulty: 5
+topic: interview
+kind: dialogue
+---
+A(f): مساء الخير، ممكن آخد من وقتك دقيقة؟ إحنا بنعمل فيديو وبنسأل الناس سؤال بسيط. | Good evening, can I take a minute of your time? We're making a video and asking people a simple question.
+B(m): اتفضلي، بس بسرعة عشان الأتوبيس جاي. | Go ahead, but quickly because the bus is coming.
+A(f): إيه أكتر حاجة بتبسطك في يومك؟ | What's the thing that makes you happiest in your day?
+B(m): أكتر حاجة؟ يعني... والله سؤال صعب. بصي، أنا راجل بسيط. كوباية شاي الصبح في البلكونة قبل ما الدنيا تصحى، دي عندي بالدنيا. | The thing most? Well... honestly, a hard question. Look, I'm a simple man. A cup of tea in the morning on the balcony before the world wakes up, that's worth the world to me.
+A(f): جميل! وحاجة تانية؟ | Lovely! And something else?
+B(m): ولادي. لما أرجع من الشغل مهدود، والاقيهم جريوا عليا... خلاص، التعب كله بيروح. | My kids. When I come back from work exhausted, and find them running to me... that's it, all the tiredness goes away.
+
+A(f): وإنتي يا مدام؟ | And you, madam?
+C(f): أنا؟ هههه أنا بيبسطني إن ولا حد يكلمني لمدة ساعة! | Me? Haha what makes me happy is nobody talking to me for an hour!
+B(m): أهو ده الكلام الصح! | Now that's the truth!
+C(f): لأ بجد، أنا شغالة في كول سنتر، طول اليوم الناس بتزعقلي. فأحلى حاجة إني أقعد ساكتة، وأسمع أم كلثوم، وخلاص. | No seriously, I work in a call centre, all day people shout at me. So the best thing is sitting in silence, listening to Umm Kulthum, and that's it.
+A(f): شكراً ليكم جداً. | Thank you very much.
+B(m): العفو. يلا، الأتوبيس جه! | You're welcome. Right, the bus is here!
+---
+? إيه أكتر حاجة بتبسط الراجل الصبح؟ | What makes the man happiest in the morning? | كوباية شاي في البلكونة | الأتوبيس | الشغل | الفطار مع ولاده
+? إيه اللي بيخلي التعب يروح؟ | What makes his tiredness go away? | لما ولاده يجروا عليه | النوم | الشاي | أم كلثوم
+? الست بتشتغل فين؟ | Where does the woman work? | في كول سنتر | في مدرسة | في بنك | مش بتشتغل
+? ليه بتحب تقعد ساكتة؟ | Why does she like sitting in silence? | عشان الناس بتزعق لها طول اليوم | عشان تعبانة من الولاد | عشان مش بتحب الكلام | عشان بتذاكر

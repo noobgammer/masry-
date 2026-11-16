@@ -1,0 +1,213 @@
+# Ranks continue from 01-core.txt
+# arabic | translit | english | pos | category | variants | example | example English | notes
+اتنين | etneen | two | number | numbers |  | عايز اتنين شاي. | I want two teas. | Dual nouns: يومين, ساعتين.
+تلاتة | talaata | three | number | numbers | تلاته,تلات | بروح الجيم تلات مرات في الأسبوع. | I go to the gym three times a week. | تلات before nouns.
+أربعة | arba3a | four | number | numbers | اربعة,اربعه,اربع | الساعة أربعة. | It's four o'clock. |
+خمسة | khamsa | five | number | numbers | خمسه,خمس | خمس دقايق وجاي. | Coming in five minutes. |
+ستة | setta | six | number | numbers | سته,ست | الساعة ستة الصبح. | Six in the morning. |
+سبعة | sab3a | seven | number | numbers | سبعه,سبع | |  |
+تمانية | tamanya | eight | number | numbers | تمانيه,تمن | | |
+تسعة | tes3a | nine | number | numbers | تسعه,تسع | | |
+عشرة | 3ashara | ten | number | numbers | عشره,عشر | بعشرة جنيه. | For ten pounds. |
+مية | meyya | hundred | number | numbers | ميه,مائة | ميت جنيه. | A hundred pounds. | Do not confuse with مية (mayya) = water.
+ألف | alf | thousand | number | numbers | الف,آلاف | ألف جنيه. | A thousand pounds. |
+جنيه | geneeh | Egyptian pound | noun | nouns |  | بكام؟ بعشرين جنيه. | How much? Twenty pounds. |
+ساعة | saa3a | hour / watch / o'clock | noun | time | ساعه,ساعات,ساعتين | الساعة كام دلوقتي؟ | What time is it now? |
+دقيقة | di2ee2a | minute | noun | time | دقيقه,دقايق | دقيقة واحدة! | One minute! |
+ثانية | sanya | second | noun | time | ثانيه,ثواني | ثانية واحدة. | One second. | Also تانية (other, f.) — context.
+أسبوع | esboo3 | week | noun | time | اسبوع,أسابيع,اسبوعين | الأسبوع الجاي. | Next week. |
+شهر | shahr | month | noun | time | شهور,شهرين | من شهرين. | Two months ago. |
+سنة | sana | year | noun | time | سنه,سنين,سنتين | كل سنة وإنت طيب. | Happy holiday (every year may you be well). |
+الصبح | eṣṣob7 | morning / in the morning | noun | time | صبح | بصحى الساعة سبعة الصبح. | I wake up at seven in the morning. | صباح الخير = good morning.
+بالليل | bel-leel | at night | adverb | time | الليل,ليلة | هنخرج بالليل. | We'll go out at night. | ليلة = one night.
+بدري | badri | early | adverb | time |  | جيت بدري النهارده. | You came early today. | لسه بدري = it's still early.
+متأخر | met2akhar | late | adjective | time | متأخرة,اتأخر,اتأخرت | آسف، اتأخرت. | Sorry, I'm late. | اتأخر = to be late (verb).
+زمان | zamaan | long ago / in the past | adverb | time |  | زمان كنت بلعب كورة. | I used to play football in the past. | من زمان = for ages.
+دايماً | dayman | always | adverb | time | دايما | هو دايماً متأخر. | He's always late. |
+أبداً | abadan | never / not at all | adverb | negation | ابدا,أبدا | عمري ما شفته أبداً. | I've never seen him. | عمري ما = never in my life.
+ساعات | sa3aat | sometimes | adverb | time |  | ساعات بنام بدري. | Sometimes I sleep early. | Also plural of ساعة.
+مرة | marra | once / time (occurrence) / wife | noun | time | مره,مرات,مرتين | مرة واحدة بس. | Just once. | مرة تانية = another time.
+أول | awwel | first / as soon as | adjective | connectors | اول | أول ما وصلت كلمتك. | As soon as I arrived I called you. | أول ما = as soon as.
+آخر | aakher | last / end | adjective | adjectives | اخر | آخر مرة شفته كانت في رمضان. | The last time I saw him was in Ramadan. | في الآخر = in the end.
+قبل | 2abl | before | preposition | time |  | قبل الفطار. | Before breakfast. | قبل ما + verb = before doing.
+بعد | ba3d | after | preposition | time |  | بعد الشغل. | After work. | بعد ما + verb = after doing.
+لحد | le7add | until | preposition | time | لغاية,لحد ما | استنى لحد ما أرجع. | Wait until I come back. |
+جوه | gowwa | inside | adverb | prepositions | جوا | الأكل جوه التلاجة. | The food is inside the fridge. |
+بره | barra | outside / abroad | adverb | prepositions | برا | أنا بره دلوقتي. | I'm out right now. | بره مصر = abroad.
+فوق | foo2 | up / above / upstairs | adverb | prepositions |  | هو فوق. | He's upstairs. |
+تحت | ta7t | down / under / downstairs | adverb | prepositions |  | أنا مستنيك تحت. | I'm waiting for you downstairs. |
+جنب | gamb | next to | preposition | prepositions |  | قاعد جنبي. | Sitting next to me. |
+قدام | 2oddaam | in front of | preposition | prepositions |  | قدام البيت. | In front of the house. |
+ورا | wara | behind | preposition | prepositions |  | ورا المسجد. | Behind the mosque. |
+بين | been | between | preposition | prepositions |  | بيني وبينك. | Between you and me. |
+غير | gheer | other than / except / without | preposition | connectors |  | من غير سكر. | Without sugar. | غير كده = apart from that.
+لوحد | lewa7d | alone (+ pronoun) | adverb | adjectives | لوحدي,لوحدك,لوحده,لوحدها,لوحدنا | بتتمرن لوحدك؟ | Do you train alone? | Always with a pronoun.
+بعض | ba3d | each other / some | pronoun | pronouns |  | بنكلم بعض كل يوم. | We talk to each other every day. | زي بعض = same.
+نفس | nafs | same / self | noun | pronouns | نفسي,نفسك,نفسه | نفس الحاجة. | The same thing. | نفسي = I really want / I wish: نفسي أسافر.
+ماما | maama | mum | noun | family |  | ماما بتسلم عليك. | Mum says hi. |
+بابا | baaba | dad | noun | family |  | بابا في الشغل. | Dad is at work. |
+أخ | akh | brother | noun | family | اخ,أخويا,اخويا,أخوك,اخوك,أخوه,اخوه,إخوات,اخوات | أخويا الكبير. | My older brother. | أخويا = my brother.
+أخت | ukht | sister | noun | family | اخت,أختي,اختي,اختك | أختي في الجامعة. | My sister is at university. |
+أهل | ahl | family / parents | noun | family | اهل,أهلي,اهلي,أهلك,اهلك | أهلي في باكستان. | My family is in Pakistan. | Also Al Ahly club: الأهلي.
+عيلة | 3eela | family | noun | family | عيله,عيلتي | العيلة كلها جاية. | The whole family is coming. |
+ابن | ebn | son | noun | family | إبن,ابني,ابنه,ولاد | ابن عمي. | My cousin (father's brother's son). |
+بنت | bent | girl / daughter | noun | family | بنات,بنتي | البنت دي مين؟ | Who's that girl? |
+ولد | walad | boy / kid | noun | family | واد,ولاد,عيال | الولاد بيلعبوا بره. | The kids are playing outside. | واد = guy (casual); عيال = kids.
+راجل | raagel | man | noun | nouns | رجالة | راجل محترم. | A respectable man. | يا راجل! = come on man! (disbelief)
+ست | sett | woman / lady | noun | nouns | ستات | ست كبيرة. | An elderly lady. | Also "six" (ستة) in counting.
+عم | 3amm | uncle (paternal) / man (address) | noun | family | عمي,عمو | يا عم، سيبك منه. | Man, forget about him. | يا عم = "dude" in slang.
+خال | khaal | uncle (maternal) | noun | family | خالي,خالو | خالي ساكن في إسكندرية. | My uncle lives in Alexandria. |
+جوز | gooz | husband / pair | noun | family | جوزها | جوزها دكتور. | Her husband is a doctor. | جوز جزم = pair of shoes.
+مرات | meraat | wife of | noun | family | مراتي,مراته | مراته مصرية. | His wife is Egyptian. | Also plural of مرة (times).
+اسم | esm | name | noun | nouns | اسمي,اسمك,اسمه,اسمها | اسمك إيه؟ | What's your name? |
+عربي | 3arabi | Arabic / Arab | adjective | nouns | عربية | بتتكلم عربي؟ | Do you speak Arabic? | عربية also = car!
+عربية | 3arabeyya | car | noun | nouns | عربيه,عربيات | عربيتك فين؟ | Where's your car? | Also "Arabic (f.)".
+مصر | maṣr | Egypt / Cairo | noun | places | مصري,مصرية,مصريين | أنا بحب مصر. | I love Egypt. | Locals often call Cairo "Maṣr" too.
+مصري | maṣri | Egyptian | adjective | places | مصرية,مصريين | أنا بتعلم مصري. | I'm learning Egyptian (Arabic). |
+القاهرة | el-2ahra | Cairo | noun | places | القاهره | | |
+بلد | balad | country / town | noun | places | بلاد,بلدي,بلدك | بلدك فين؟ | Where is your country? | البلد = downtown.
+شارع | shaare3 | street | noun | places | شوارع | الشارع زحمة. | The street is crowded. |
+محل | ma7all | shop / place | noun | places | محلات | المحل قافل. | The shop is closed. |
+مطعم | maṭ3am | restaurant | noun | places | مطاعم | نروح مطعم؟ | Shall we go to a restaurant? |
+قهوة | 2ahwa | coffee / café | noun | food | قهوه,القهوة | نقعد على القهوة؟ | Shall we sit at the café? | Local street café culture.
+شاي | shaay | tea | noun | food |  | شاي بلبن. | Tea with milk. |
+مية | mayya | water | noun | food | ميه,المية | أنا عايز مية. | I want water. | Not "hundred" (meyya).
+عيش | 3eesh | bread | noun | food |  | هات عيش وإنت جاي. | Bring bread on your way. | Lit. "life".
+فطار | feṭaar | breakfast | noun | food | فطرت,يفطر | فطرت؟ | Have you had breakfast? | Also iftar in Ramadan.
+غدا | ghada | lunch | noun | food | اتغديت,يتغدى | تعالى اتغدى معانا. | Come have lunch with us. |
+عشا | 3asha | dinner | noun | food | اتعشيت,يتعشى | اتعشيت ولا لسه؟ | Have you had dinner yet? |
+جعان | ga3aan | hungry | adjective | adjectives | جعانة,جعانين | أنا جعان موت. | I'm starving. | موت = "to death" intensifier.
+عطشان | 3aṭshaan | thirsty | adjective | adjectives | عطشانة | |  |
+تعبان | ta3baan | tired / sick | adjective | adjectives | تعبانة,تعبانين,تعب | أنا تعبان شوية. | I'm a bit tired / unwell. |
+فاضي | faaḍi | free / empty | adjective | adjectives | فاضية,فاضيين | إنت فاضي بكره؟ | Are you free tomorrow? | كلام فاضي = nonsense.
+مشغول | mashghool | busy | adjective | adjectives | مشغولة,مشغولين | معلش، مشغول دلوقتي. | Sorry, busy right now. |
+كبير | kebeer | big / old (person) | adjective | adjectives | كبيرة,كبار | أخويا الكبير. | My older brother. |
+صغير | ṣoghayyar | small / young | adjective | adjectives | صغيرة,صغيرين | لسه صغير. | Still young. |
+جديد | gedeed | new | adjective | adjectives | جديدة,جداد | موبايل جديد. | A new phone. |
+قديم | 2adeem | old (thing) | adjective | adjectives | قديمة,قدام | ده موديل قديم. | That's an old model. |
+سهل | sahl | easy | adjective | adjectives | سهلة | الامتحان كان سهل. | The exam was easy. |
+صعب | ṣa3b | difficult | adjective | adjectives | صعبة | المصري مش صعب. | Egyptian isn't hard. | صعبان عليا = I feel sorry for.
+غالي | ghaali | expensive / dear | adjective | adjectives | غالية | ده غالي أوي! | That's really expensive! | Also "precious": إنت غالي عليا.
+رخيص | rkheeṣ | cheap | adjective | adjectives | رخيصة | | |
+حر | 7arr | hot (weather) | adjective | adjectives |  | الدنيا حر النهارده. | It's hot today. | الدنيا = the world/the weather.
+برد | bard | cold (weather) / a cold | noun | adjectives | بردان,سقعة | الجو برد. | It's cold. | بردان = feeling cold.
+سخن | sokhn | hot (thing) / feverish | adjective | adjectives | سخنة | الشاي سخن. | The tea is hot. |
+صح | ṣa7 | right / correct | adjective | adjectives |  | صح؟ | Right? | Tag question; صح كده = exactly.
+غلط | ghalaṭ | wrong / mistake | adjective | adjectives |  | ده غلط. | That's wrong. |
+عادي | 3aadi | normal / no big deal | adjective | expressions | عادية | عادي، مفيش مشكلة. | It's fine, no problem. | Very common: "it's whatever".
+مهم | mohemm | important | adjective | adjectives | مهمة | مش مهم. | It doesn't matter. |
+أكيد | akeed | sure / definitely | adverb | expressions | اكيد | أكيد هاجي. | Of course I'll come. |
+طبعاً | ṭab3an | of course | adverb | expressions | طبعا | طبعاً يا عم! | Of course, man! |
+يمكن | yemken | maybe | adverb | expressions |  | يمكن آجي متأخر. | Maybe I'll come late. |
+بجد | begad | seriously / really | adverb | expressions |  | بجد؟ | Really? | بجد بجد = for real.
+على فكرة | 3ala fekra | by the way | expression | connectors |  | على فكرة، أنا شفته امبارح. | By the way, I saw him yesterday. |
+بصراحة | beṣaraa7a | honestly | adverb | connectors | بصراحه | بصراحة مش عاجبني. | Honestly, I don't like it. |
+عموماً | 3umuuman | anyway / in general | adverb | connectors | عموما | عموماً، نتكلم بعدين. | Anyway, we'll talk later. |
+المهم | elmohemm | anyway / the main thing | filler | connectors |  | المهم، روحت هناك و... | Anyway, I went there and... | Storytelling transition.
+خلي | khalli | let / keep / make | verb | verbs | خليك,خليني,خليه,خلينا,يخلي | خليني أفكر. | Let me think. | خليك هنا = stay here.
+هات | haat | give me / bring | verb | verbs | هاتي,هاتوا,جاب,يجيب,جبت | هات الشنطة. | Bring the bag. | Imperative only; past/present via جاب.
+جاب / يجيب | gaab / yegeeb | bring / get | verb | verbs | جبت,جابت,جابوا,يجيب,تجيب,نجيب,اجيب | جبتلك هدية. | I got you a present. |
+تعالى | ta3aala | come! | verb | verbs | تعالي,تعالوا | تعالى هنا. | Come here. | f. تعالي, pl. تعالوا.
+مشي / يمشي | meshi / yemshi | walk / leave | verb | verbs | مشيت,مشيوا,يمشي,تمشي,نمشي,امشي,ماشي | لازم أمشي. | I have to leave. | امشي! = go away!
+رجع / يرجع | rege3 / yerga3 | come back / return | verb | verbs | رجعت,رجعوا,يرجع,ترجع,نرجع,ارجع,راجع,راجعة | هترجع إمتى؟ | When will you be back? |
+وصل / يوصل | weṣel / yewṣal | arrive / reach | verb | verbs | وصلت,وصلوا,يوصل,توصل,اوصل,واصل | وصلت؟ | Have you arrived? | وصّل = to drop someone off.
+نزل / ينزل | nezel / yenzel | go down / go out | verb | verbs | نزلت,نزلوا,ينزل,تنزل,انزل,نازل | أنا نازل دلوقتي. | I'm heading out now. | نازل = leaving the house; also "downloading".
+طلع / يطلع | ṭele3 / yeṭla3 | go up / turn out to be | verb | verbs | طلعت,طلعوا,يطلع,تطلع,اطلع,طالع | طلع عنده حق. | It turned out he was right. | Important for storytelling.
+دخل / يدخل | dakhal / yodkhol | enter | verb | verbs | دخلت,دخلوا,يدخل,تدخل,ادخل,داخل | ادخل يا عم. | Come in, man. |
+فتح / يفتح | fata7 / yefta7 | open | verb | verbs | فتحت,يفتح,تفتح,افتح,فاتح | افتح الباب. | Open the door. |
+قفل / يقفل | 2afal / ye2fel | close / hang up | verb | verbs | قفلت,يقفل,تقفل,اقفل,قافل | قفل السكة في وشي! | He hung up on me! |
+لعب / يلعب | le3eb / yel3ab | play | verb | verbs | لعبت,لعبوا,يلعب,تلعب,نلعب,العب | بنلعب كورة كل جمعة. | We play football every Friday. |
+سمع / يسمع | seme3 / yesma3 | hear / listen | verb | verbs | سمعت,سمعوا,يسمع,تسمع,اسمع,سامع | سامعني؟ | Can you hear me? | اسمع! = listen!
+افتكر / يفتكر | eftakar / yeftekir | remember / think | verb | verbs | افتكرت,يفتكر,تفتكر,افتكر,فاكر,فاكرة | تفتكر هيكسبوا؟ | Do you think they'll win? | فاكر = remember / think.
+نسي / ينسى | nesi / yensa | forget | verb | verbs | نسيت,نسيوا,ينسى,تنسى,انسى,ناسي | نسيت أقولك. | I forgot to tell you. | انسى! = forget it!
+ركب / يركب | rekeb / yerkab | ride / get on | verb | verbs | ركبت,يركب,تركب,اركب | هركب أوبر. | I'll take an Uber. | Also "install" (an app/AC).
+دفع / يدفع | dafa3 / yedfa3 | pay / push | verb | verbs | دفعت,يدفع,تدفع,ادفع | أنا اللي هدفع. | I'm the one paying. |
+اشترى / يشتري | eshtara / yeshteri | buy | verb | verbs | اشتريت,يشتري,تشتري,اشتري | اشتريت إيه؟ | What did you buy? |
+باع / يبيع | baa3 / yebee3 | sell | verb | verbs | بعت,باعت,يبيع,تبيع | باع عربيته. | He sold his car. | بعت can also mean "sent" (بعت / يبعت).
+بعت / يبعت | ba3at / yeb3at | send | verb | verbs | بعتت,بعتوا,يبعت,تبعت,ابعت,ابعتلي | ابعتلي اللوكيشن. | Send me the location. |
+كتب / يكتب | katab / yektib | write | verb | verbs | كتبت,يكتب,تكتب,اكتب | اكتبهالي. | Write it for me. |
+قرا / يقرا | 2ara / ye2ra | read | verb | verbs | قريت,يقرا,تقرا,اقرا | قريت الرسالة؟ | Did you read the message? |
+ذاكر / يذاكر | zaakir / yezaakir | study | verb | verbs | ذاكرت,يذاكر,تذاكر,اذاكر | لازم أذاكر النهارده. | I have to study today. | مذاكرة = studying.
+اتعلم / يتعلم | et3allem / yet3allem | learn | verb | verbs | اتعلمت,يتعلم,تتعلم,اتعلم | بتعلم مصري من سنة. | I've been learning Egyptian for a year. |
+حاول / يحاول | 7aawel / ye7aawel | try | verb | verbs | حاولت,يحاول,تحاول,احاول | حاول تاني. | Try again. |
+ساعد / يساعد | saa3ed / ysaa3ed | help | verb | verbs | ساعدت,يساعد,تساعد,اساعد,ساعدني | ممكن تساعدني؟ | Can you help me? |
+سأل / يسأل | sa2al / yes2al | ask | verb | verbs | سألت,يسأل,تسأل,اسأل,سؤال | عايز أسألك على حاجة. | I want to ask you about something. | سأل على = ask about / check on.
+رد / يرد | radd / yerodd | answer / reply | verb | verbs | ردت,رديت,يرد,ترد,ارد | مبتردش ليه؟ | Why aren't you answering? |
+فكر / يفكر | fakkar / yfakkar | think | verb | verbs | فكرت,يفكر,تفكر,افكر | بفكر أسافر. | I'm thinking of travelling. | فكرة = idea.
+حس / يحس | 7ass / ye7ess | feel | verb | verbs | حسيت,يحس,تحس,احس | حاسس إني تعبان. | I feel tired. | حاسس = feeling.
+ضحك / يضحك | ḍe7ek / yeḍ7ak | laugh | verb | verbs | ضحكت,يضحك,تضحك,اضحك | ضحكتني! | You made me laugh! | ضحك على = fooled.
+نضف / ينضف | naḍḍaf / ynaḍḍaf | clean | verb | verbs | نضفت,ينضف,نضيف,نضيفة | |  | نضيف = clean (adj.).
+غير / يغير | ghayyar / yghayyar | change | verb | verbs | غيرت,يغير,تغير | غيرت رأيي. | I changed my mind. |
+سافر / يسافر | saafer / ysaafer | travel | verb | verbs | سافرت,يسافر,تسافر,اسافر,مسافر | مسافر إمتى؟ | When are you travelling? |
+سكن / يسكن | sakan / yoskon | live (reside) | verb | verbs | سكنت,يسكن,ساكن,ساكنة | ساكن فين؟ | Where do you live? | ساكن = living (in a place).
+عاش / يعيش | 3aash / ye3eesh | live (life) | verb | verbs | عشت,يعيش,عايش | عشت في السعودية عشرين سنة. | I lived in Saudi for twenty years. |
+مات / يموت | maat / yemoot | die | verb | verbs | ميت,بموت | بموت في الكشري. | I'm crazy about koshari. | بموت في = I love (lit. I die in).
+صلى / يصلي | ṣalla / yṣalli | pray | verb | verbs | صليت,يصلي,اصلي,صلاة | هصلي وآجي. | I'll pray and come. |
+صاحي | ṣaa7i | awake | adjective | adjectives | صاحية | لسه صاحي ولا نمت؟ | Still awake or asleep? |
+جاهز | gaahez | ready | adjective | adjectives | جاهزة,جاهزين | إنت جاهز؟ | Are you ready? |
+متأكد | met2akked | sure | adjective | adjectives | متأكدة | إنت متأكد؟ | Are you sure? |
+مبسوط | mabsooṭ | happy | adjective | adjectives | مبسوطة,مبسوطين | أنا مبسوط إنك جيت. | I'm happy you came. |
+زعلان | za3laan | upset / sad | adjective | adjectives | زعلانة,زعل | إنت زعلان مني؟ | Are you upset with me? |
+فرحان | far7aan | glad | adjective | adjectives | فرحانة | |  |
+خايف | khaayef | afraid | adjective | adjectives | خايفة,خاف,يخاف | متخافش. | Don't worry / don't be afraid. |
+محتاج | me7taag | need (participle) | participle | verbs | محتاجة,محتاجين,احتاج | محتاج مساعدة؟ | Do you need help? |
+فاكر | faaker | remember / think | participle | verbs | فاكرة,فاكرين | فاكرني؟ | Do you remember me? |
+عارف | 3aaref | know (participle) | participle | verbs | عارفة,عارفين | مش عارف. | I don't know. |
+ناوي | naawi | intend to | participle | verbs | ناوية,ناويين | ناوي تعمل إيه؟ | What are you planning to do? |
+مستني | mestanni | waiting | participle | verbs | مستنية,مستنيين | أنا مستنيك. | I'm waiting for you. |
+موجود | mawgood | present / available | adjective | adjectives | موجودة,موجودين | أحمد موجود؟ | Is Ahmed there? |
+فاضل | faaḍel | left / remaining | participle | adjectives | فاضلة | فاضل قد إيه؟ | How much is left? |
+قد إيه | 2add eeh | how much / how long | question | questions |  | بقالك قد إيه هنا؟ | How long have you been here? |
+بقالي | ba2aali | I've been (for a duration) | particle | time | بقالك,بقاله,بقالها,بقالنا,بقالهم | بقالي سنة بتعلم مصري. | I've been learning Egyptian for a year. | Key Egyptian construction for duration.
+كمان | kamaan | also / more / another | adverb | connectors |  | عايز واحد كمان. | I want one more. | وكمان = and also.
+طول | ṭool | all along / throughout / length | noun | time |  | طول اليوم بشتغل. | I work all day long. | على طول = straight ahead / always.
+على طول | 3ala ṭool | straight ahead / right away / always | expression | expressions |  | امشي على طول. | Go straight ahead. | هاجي على طول = I'll come right away.
+لسه بدري | lessa badri | it's still early | expression | expressions |  | خليك، لسه بدري! | Stay, it's still early! |
+ما تقلقش | ma t2la2sh | don't worry | expression | expressions | متقلقش | متقلقش، كله تمام. | Don't worry, everything's fine. |
+مفيش مشكلة | mafeesh moshkela | no problem | expression | expressions |  | | |
+وحشتني | wa7ashteni | I missed you | expression | expressions | وحشتيني,وحشتوني | وحشتني يا راجل! | I missed you, man! | Lit. "you made me feel lonely".
+مبروك | mabrook | congratulations | expression | expressions |  | مبروك على الشغل الجديد! | Congrats on the new job! | Reply: الله يبارك فيك.
+حمد الله على السلامة | 7amdella 3ala salaama | welcome back (safe arrival) | expression | expressions |  | حمد الله على السلامة! | Welcome back! | Reply: الله يسلمك.
+ربنا يخليك | rabbena ykhallik | thank you (God keep you) | expression | expressions |  | | | Warm thanks.
+أهلاً | ahlan | hi / welcome | expression | expressions | اهلا,أهلا | أهلاً يا باشا! | Hey boss! | أهلاً وسهلاً = welcome.
+السلام عليكم | essalaamu 3aleekum | peace be upon you (hello) | expression | expressions | سلام | | | Reply: وعليكم السلام. سلام = bye.
+مع السلامة | ma3a ssalaama | goodbye | expression | expressions |  | | |
+صباح الخير | ṣaba7 el-kheer | good morning | expression | expressions |  | | | Reply: صباح النور.
+مساء الخير | masa2 el-kheer | good evening | expression | expressions |  | | | Reply: مساء النور.
+تصبح على خير | teṣba7 3ala kheer | good night | expression | expressions | تصبحي على خير | | | Reply: وإنت من أهله.
+يا | ya | O (vocative) | particle | expressions |  | يا أحمد! | Ahmed! | يا عم / يا باشا / يا معلم = forms of address.
+باشا | baasha | boss / sir (friendly) | noun | slang |  | تمام يا باشا. | OK, boss. | Friendly address for men.
+ربنا | rabbena | God (our Lord) | noun | expressions |  | ربنا معاك. | God be with you. | ربنا يستر = God help us.
+والله | wallahi | I swear / really | expression | expressions | واللهي | والله ما أعرف. | I swear I don't know. | Also "really?": والله؟
+أصلاً | aṣlan | actually / at all / originally | adverb | connectors | اصلا | أنا أصلاً مكنتش عايز أروح. | I didn't even want to go in the first place. |
+خلاص كده | khalaaṣ keda | that's it then | expression | expressions |  | | |
+بقى | ba2a | then / already (filler) | filler | connectors |  | يلا بقى! | Come on already! | Emphatic particle after verbs/commands.
+مثلاً | masalan | for example | adverb | connectors | مثلا | |  |
+تقريباً | ta2reeban | almost / about | adverb | connectors | تقريبا | تقريباً خلصت. | I'm almost done. |
+حوالي | 7awaali | around / approximately | adverb | numbers |  | حوالي ساعة. | About an hour. |
+بالظبط | bezzabṭ | exactly | adverb | expressions | بالضبط | بالظبط! | Exactly! |
+فعلاً | fe3lan | really / indeed | adverb | expressions | فعلا | فعلاً عندك حق. | You're really right. |
+عندك حق | 3andak 7a2 | you're right | expression | expressions | عندها حق,عنده حق | | |
+مالك | maalak | what's wrong with you | expression | questions | مالك,مالكم,ماله,مالها,مالي | مالك؟ شكلك تعبان. | What's up with you? You look tired. | مالي؟ = what's it to me?
+شكل | shakl | look / appearance / seems | noun | expressions | شكلك,شكله,شكلها,شكلي | شكله مش جاي. | It looks like he's not coming. | شكلك = you look...
+أوضة | ooḍa | room | noun | nouns | اوضة,اوضه,أوض | أنا في أوضتي. | I'm in my room. |
+باب | baab | door | noun | nouns |  | |  |
+موبايل | mobaayl | mobile phone | noun | nouns | موبايلي,موبيل | الموبايل فصل شحن. | The phone died. | فصل شحن = ran out of battery.
+نت | net | internet | noun | nouns |  | النت وحش النهارده. | The internet is bad today. |
+رسالة | resaala | message | noun | nouns | رساله,رسايل | بعتلك رسالة. | I sent you a message. | ماسدج / مسدج also used.
+صورة | ṣoora | picture / photo | noun | nouns | صوره,صور | ابعتلي الصور. | Send me the photos. |
+كورة | kora | football / ball | noun | nouns | كوره | بتحب الكورة؟ | Do you like football? |
+ماتش | maatsh | match | noun | nouns | ماتشات | الماتش الساعة كام؟ | What time is the match? |
+جيم | geem | gym | noun | places | الجيم | رايح الجيم. | Going to the gym. |
+جامعة | gam3a | university | noun | places | جامعه,الجامعة | بتدرس في أنهي جامعة؟ | Which university do you study at? |
+امتحان | emte7aan | exam | noun | nouns | امتحانات | عندي امتحان بكره. | I have an exam tomorrow. |
+دكتور | doktoor | doctor / professor | noun | nouns | دكتورة | |  | Used for university lecturers too.
+مشكلة | moshkela | problem | noun | nouns | مشكله,مشاكل | فيه مشكلة؟ | Is there a problem? |
+فكرة | fekra | idea | noun | nouns | فكره,أفكار | فكرة حلوة! | Good idea! |
+قصد | 2aṣd | intention / meaning | noun | nouns | قصدي,قصدك | مش قصدي. | I didn't mean it. | قصدك إيه؟ = what do you mean?
+حق | 7a22 | right / truth | noun | nouns |  | |  |
+دنيا | donya | world / life / weather | noun | nouns | الدنيا | الدنيا زحمة. | It's crowded everywhere. | Used as "everything / the situation".
+حياة | 7ayaah | life | noun | nouns | حياتي | |  |
+مكان | makaan | place | noun | places | أماكن | المكان ده حلو. | This place is nice. |
+طريق | ṭaree2 | road / way | noun | places |  | |  |
+زحمة | za7ma | traffic / crowded | noun | adjectives | زحمه | الطريق زحمة موت. | The road is extremely jammed. |

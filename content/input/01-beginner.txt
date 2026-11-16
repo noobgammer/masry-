@@ -1,0 +1,137 @@
+# Comprehensible input — BEGINNER (difficulty 1)
+# Block format:
+# === slug
+# key: value headers (title, title_ar, difficulty, topic, kind)
+# ---
+# Speaker(gender): Arabic | English        (blank line = paragraph break)
+# ---
+# ? Arabic question | English question | correct (Arabic) | wrong | wrong | wrong
+
+=== intro-new-friend
+title: Meeting someone new
+title_ar: صاحب جديد
+difficulty: 1
+topic: introductions
+kind: dialogue
+---
+A(m): السلام عليكم. | Peace be upon you.
+B(m): وعليكم السلام، أهلاً. | And upon you peace, hi.
+A(m): أنا اسمي عمر. إنت اسمك إيه؟ | My name is Omar. What's your name?
+B(m): أنا اسمي بلال. أهلاً يا عمر. | My name is Bilal. Hi Omar.
+A(m): إنت مش مصري، صح؟ | You're not Egyptian, right?
+B(m): لأ، أنا من باكستان، بس عشت في السعودية كتير. | No, I'm from Pakistan, but I lived in Saudi for a long time.
+
+A(m): بس إنت بتتكلم مصري كويس! | But you speak Egyptian well!
+B(m): شكراً. بقالي سنة بتعلم. | Thanks. I've been learning for a year.
+A(m): ما شاء الله. وإنت هنا بتعمل إيه؟ | Mashallah. And what are you doing here?
+B(m): بدرس في الجامعة. وإنت؟ | I study at university. And you?
+A(m): أنا بشتغل في شركة قريبة من هنا. | I work at a company near here.
+B(m): فرصة سعيدة يا عمر. | Nice to meet you, Omar.
+A(m): وأنا أسعد. خد رقمي، ونبقى نتقابل. | The pleasure is mine. Take my number and let's meet up.
+---
+? بلال منين؟ | Where is Bilal from? | من باكستان | من مصر | من السعودية | من الجامعة
+? بلال بقاله قد إيه بيتعلم مصري؟ | How long has Bilal been learning Egyptian? | سنة | شهر | سنتين | أسبوع
+? عمر بيعمل إيه؟ | What does Omar do? | بيشتغل في شركة | بيدرس في الجامعة | بيلعب كورة | مش بيشتغل
+
+=== my-day
+title: My daily routine
+title_ar: يومي
+difficulty: 1
+topic: daily routine
+kind: story
+---
+N(m): أنا بصحى كل يوم الساعة سبعة الصبح. | I wake up every day at seven in the morning.
+N(m): بشرب شاي وبفطر فول وعيش. | I drink tea and have beans and bread for breakfast.
+N(m): بعد كده بنزل الجامعة. | After that I head out to university.
+N(m): الطريق زحمة أوي، عشان كده بركب المترو. | The road is really jammed, that's why I take the metro.
+
+N(m): عندي محاضرات لحد الساعة اتنين. | I have lectures until two.
+N(m): بعد الجامعة بروح الجيم مع صاحبي كريم. | After university I go to the gym with my friend Karim.
+N(m): بنتمرن ساعة ونص تقريباً. | We train for about an hour and a half.
+N(m): بالليل بذاكر شوية، وبعدين بكلم أهلي. | At night I study a bit, and then I call my family.
+N(m): وبنام الساعة اتناشر. | And I sleep at twelve.
+---
+? بيصحى الساعة كام؟ | What time does he wake up? | سبعة | تمانية | ستة | اتناشر
+? بيروح الجامعة إزاي؟ | How does he get to university? | بالمترو | بالتاكسي | ماشي | بالعربية
+? بيعمل إيه بعد الجامعة؟ | What does he do after university? | بيروح الجيم | بينام | بيذاكر | بيكلم أهله
+
+=== gym-buddy
+title: At the gym
+title_ar: في الجيم
+difficulty: 1
+topic: gym
+kind: dialogue
+---
+A(m): إزيك يا كريم؟ عامل إيه؟ | How are you, Karim? How's it going?
+B(m): الحمد لله، تمام. وإنت؟ | Thank God, fine. And you?
+A(m): تعبان شوية، نمت متأخر امبارح. | A bit tired, I slept late yesterday.
+B(m): طب هنتمرن إيه النهارده؟ | So what are we training today?
+A(m): رجل. | Legs.
+B(m): لأ يا عم! رجل تاني؟ إحنا عملنا رجل امبارح! | No way man! Legs again? We did legs yesterday!
+A(m): لأ، امبارح عملنا ضهر. | No, yesterday we did back.
+B(m): آه صح، عندك حق. خلاص، يلا بينا. | Oh right, you're right. OK, let's go.
+---
+? عمر تعبان ليه؟ | Why is Omar tired? | عشان نام متأخر | عشان اتمرن كتير | عشان جعان | عشان عيان
+? هيتمرنوا إيه النهارده؟ | What will they train today? | رجل | ضهر | دراع | صدر
+? عملوا إيه امبارح؟ | What did they do yesterday? | ضهر | رجل | مفيش | جري
+
+=== koshari
+title: Ordering koshari
+title_ar: عايز كشري
+difficulty: 1
+topic: food
+kind: dialogue
+---
+A(m): لو سمحت، عايز علبة كشري. | Excuse me, I'd like a box of koshari.
+B(m): صغيرة ولا كبيرة؟ | Small or large?
+A(m): كبيرة. بكام؟ | Large. How much?
+B(m): بخمسة وتلاتين جنيه. | Thirty-five pounds.
+A(m): ماشي. ومعاها شطة ودقة لو سمحت. | OK. And with hot sauce and garlic sauce please.
+B(m): حاضر. تاكل هنا ولا تيك أواي؟ | Sure. Eating here or takeaway?
+A(m): تيك أواي. | Takeaway.
+B(m): اتفضل. بالهنا والشفا. | Here you go. Enjoy.
+A(m): تسلم. | Thanks.
+---
+? عايز كشري صغير ولا كبير؟ | Small or large koshari? | كبير | صغير | الاتنين | ولا حاجة
+? الكشري بكام؟ | How much is the koshari? | خمسة وتلاتين | عشرين | خمسين | عشرة
+? هياكل فين؟ | Where will he eat? | تيك أواي | في المحل | في الجامعة | في الجيم
+
+=== family-call
+title: Calling home
+title_ar: مكالمة مع ماما
+difficulty: 1
+topic: family
+kind: dialogue
+---
+A(m): ألو، أيوه يا ماما. | Hello, yes mum.
+B(f): إزيك يا حبيبي؟ وحشتني! | How are you, darling? I missed you!
+A(m): وإنتي كمان وحشتيني. إزيك إنتي؟ | I missed you too. How are you?
+B(f): الحمد لله. كلت ولا لسه؟ | Thank God. Have you eaten yet?
+A(m): لسه، هاكل دلوقتي. | Not yet, I'll eat now.
+B(f): ليه كده؟ الساعة عشرة! | Why? It's ten o'clock!
+A(m): معلش يا ماما، كان عندي شغل كتير. | Sorry mum, I had a lot of work.
+B(f): طيب، كل كويس ونام بدري. | OK, eat well and sleep early.
+A(m): حاضر يا ماما. سلميلي على بابا. | Sure mum. Say hi to dad for me.
+---
+? هو كل ولا لسه؟ | Has he eaten? | لسه | آه كل | مش عايز ياكل | كل في الجامعة
+? الساعة كام؟ | What time is it? | عشرة | اتنين | سبعة | اتناشر
+? ليه اتأخر؟ | Why is he late (eating)? | عشان كان عنده شغل | عشان كان نايم | عشان كان في الجيم | عشان مش جعان
+
+=== shopping-phone
+title: Buying a phone charger
+title_ar: شاحن جديد
+difficulty: 1
+topic: shopping
+kind: dialogue
+---
+A(m): لو سمحت، عندك شاحن لده؟ | Excuse me, do you have a charger for this?
+B(m): وريني كده... آه موجود. | Show me... yes, we have it.
+A(m): بكام؟ | How much?
+B(m): بمية وخمسين. | A hundred and fifty.
+A(m): غالي شوية! ممكن بمية؟ | A bit expensive! Can you do a hundred?
+B(m): لأ والله ميجيش. خليها مية وعشرين. | No really, it won't work. Let's make it a hundred and twenty.
+A(m): ماشي، تمام. | OK, fine.
+B(m): مبروك عليك. | Congratulations on it (enjoy it).
+---
+? هو عايز يشتري إيه؟ | What does he want to buy? | شاحن | موبايل | شنطة | كشري
+? اشتراه بكام في الآخر؟ | How much did he buy it for in the end? | مية وعشرين | مية | مية وخمسين | خمسين

@@ -1,0 +1,77 @@
+# Unexpected-response scenarios (offline mode for the Listening Lab; the AI mode generates its own).
+# ">" starts a turn; "~" lines are alternative versions of that turn — one is picked at random each run,
+# so you cannot predict the next question. "!" lines are curveballs that may be injected at any point.
+# Each line: Arabic | English | sample reply (Arabic) | sample reply (English)
+
+=== gym-routine
+title: Gym small talk
+title_ar: كلام في الجيم
+topic: gym
+---
+> إنت بتروح الجيم كل يوم؟ | Do you go to the gym every day? | لأ، بروح تلات مرات في الأسبوع. | No, I go three times a week.
+~ بقالك قد إيه بتتمرن؟ | How long have you been training? | بقالي حوالي سنة. | About a year.
+> طب بتتمرن لوحدك ولا مع صحابك؟ | And do you train alone or with friends? | غالباً لوحدي، بس ساعات مع صاحبي. | Mostly alone, but sometimes with my friend.
+~ إنت ماشي على برنامج معين ولا بتلعب أي حاجة؟ | Do you follow a specific programme or just do anything? | عندي برنامج بس مش ملتزم بيه أوي. | I have a programme but I'm not very committed to it.
+~ بتروح الصبح ولا بالليل؟ | Do you go in the morning or at night? | بالليل بعد الشغل. | At night after work.
+> وبتاكل إيه بعد التمرين؟ | And what do you eat after training? | فراخ ورز غالباً. | Chicken and rice usually.
+~ إنت بتاخد بروتين ولا مكملات؟ | Do you take protein or supplements? | لأ، بحاول آكل أكل طبيعي. | No, I try to eat natural food.
+~ طب ما تيجي تتمرن معانا بكره؟ | Why don't you come train with us tomorrow? | ماشي، الساعة كام؟ | OK, what time?
+! استنى، إنت مش اللي كنت بتلبس تيشيرت الأهلي امبارح؟ | Wait, aren't you the one who was wearing the Ahly shirt yesterday? | لأ، مش أنا! أنا مش بشجع الأهلي أصلاً. | No, not me! I don't even support Ahly.
+! على فكرة، الجيم ده هيقفل أسبوعين الشهر الجاي، عرفت؟ | By the way, this gym is closing for two weeks next month, did you know? | لأ، معرفتش! ليه؟ | No, I didn't know! Why?
+
+=== new-in-cairo
+title: Meeting a stranger at a café
+title_ar: واحد غريب على القهوة
+topic: daily life
+---
+> إنت مش من هنا، صح؟ | You're not from here, right? | لأ، أنا من باكستان. | No, I'm from Pakistan.
+~ لهجتك مش مصرية مية في المية، إنت منين؟ | Your accent isn't 100% Egyptian, where are you from? | أنا من باكستان بس عشت في السعودية. | I'm from Pakistan but I lived in Saudi.
+> وإيه اللي جابك مصر؟ | And what brought you to Egypt? | جاي أدرس وأتعلم اللهجة. | I came to study and learn the dialect.
+~ قاعد هنا على طول ولا زيارة؟ | Are you staying here permanently or visiting? | زيارة، شهرين كده. | A visit, around two months.
+> عجبتك مصر ولا لسه؟ | Have you come to like Egypt yet? | آه جداً، بس الزحمة صعبة شوية. | Yes a lot, but the traffic is a bit hard.
+~ إيه أكتر أكلة عجبتك هنا؟ | What's the food you liked most here? | الكشري طبعاً! | Koshari of course!
+~ اتعلمت المصري منين؟ من الأفلام؟ | Where did you learn Egyptian? From films? | من صحابي المصريين وشوية من يوتيوب. | From my Egyptian friends and a bit from YouTube.
+! بتشرب الشاي بسكر ولا من غير؟ | Do you take your tea with sugar or without? | بسكر خفيف. | With a little sugar.
+! تعرف حد هنا ولا لوحدك؟ | Do you know anyone here or are you alone? | عندي صحاب قليلين. | I have a few friends.
+
+=== uni-group
+title: University group project
+title_ar: مشروع التخرج
+topic: university
+---
+> إنت في أنهي جروب في البروجكت؟ | Which group are you in for the project? | أنا مع أحمد ونور. | I'm with Ahmed and Nour.
+~ خلصت الجزء بتاعك من البروجكت؟ | Did you finish your part of the project? | لسه، فاضلي حاجة بسيطة. | Not yet, I have a little bit left.
+> طب هنقدم إمتى؟ | So when are we submitting? | الأسبوع الجاي إن شاء الله. | Next week, God willing.
+~ الدكتور قال إيه عن الديدلاين؟ | What did the lecturer say about the deadline? | قال مفيش تأجيل. | He said no extensions.
+> مين هيعمل البريزنتيشن؟ | Who's doing the presentation? | ممكن أنا أعمله. | I can do it.
+~ ممكن نتقابل في المكتبة بكره؟ | Can we meet in the library tomorrow? | بكره صعب، ممكن بعده؟ | Tomorrow's hard, the day after?
+! إنت شفت الجروب؟ الدكتور غير ميعاد الامتحان! | Did you see the group? The lecturer changed the exam date! | بجد؟ بقى إمتى؟ | Really? When is it now?
+! هو أحمد زعلان منك ولا إيه؟ | Is Ahmed upset with you or what? | مش عارف، ليه بتقول كده؟ | I don't know, why do you say that?
+
+=== football-chat
+title: Football at the café
+title_ar: كورة على القهوة
+topic: football
+---
+> إنت بتشجع مين؟ | Who do you support? | بشجع الأهلي. | I support Al Ahly.
+~ أهلاوي ولا زملكاوي؟ | Ahly or Zamalek? | أهلاوي طبعاً. | Ahly of course.
+> شفت ماتش امبارح؟ | Did you see yesterday's match? | آه، كان حلو أوي. | Yes, it was really good.
+~ إيه رأيك في المدرب الجديد؟ | What do you think of the new coach? | لسه بدري نحكم عليه. | It's still early to judge him.
+> مين أحسن لاعب في الفريق دلوقتي؟ | Who's the best player in the team now? | أعتقد إمام عاشور. | I think Emam Ashour.
+~ تفتكر هناخد الدوري السنة دي؟ | Do you think we'll win the league this year? | إن شاء الله، بس صعب. | God willing, but it's hard.
+! إنت بتلعب كورة ولا بتتفرج بس؟ | Do you play football or just watch? | بلعب ساعات مع صحابي. | I play sometimes with my friends.
+! تيجي نلعب خماسي يوم الجمعة؟ | Want to play five-a-side on Friday? | ماشي، فين؟ | OK, where?
+
+=== weekend-plans
+title: What did you do this weekend?
+title_ar: عملت إيه الويك إند؟
+topic: friends
+---
+> عملت إيه الويك إند؟ | What did you do at the weekend? | ولا حاجة، قعدت في البيت. | Nothing, I stayed home.
+~ خرجت امبارح ولا قعدت في البيت؟ | Did you go out yesterday or stay home? | خرجت مع صحابي. | I went out with my friends.
+> طب ليه مكلمتنيش؟ كنا خارجين! | So why didn't you call me? We were going out! | معرفتش، محدش قالي. | I didn't know, nobody told me.
+~ روحتوا فين؟ | Where did you go? | روحنا مول. | We went to a mall.
+> الأسبوع الجاي عندك إيه؟ | What have you got next week? | عندي امتحان يوم التلات. | I have an exam on Tuesday.
+~ إيه رأيك نسافر الساحل الأسبوع الجاي؟ | How about we go to the North Coast next week? | فكرة حلوة بس مش متأكد من الفلوس. | Nice idea but I'm not sure about money.
+! على فكرة، أختي اتخطبت! | By the way, my sister got engaged! | بجد؟ مبروك! | Really? Congratulations!
+! إنت شكلك تعبان، نمت كويس؟ | You look tired, did you sleep well? | لأ، نمت متأخر. | No, I slept late.
