@@ -7,8 +7,14 @@ for the design and roadmap.
 
 ## Run it
 
+Needs [Node.js](https://nodejs.org) 22 or newer.
+
 ```bash
-npm install
+git clone https://github.com/noobgammer/masry-.git masry
+```
+
+```bash
+cd masry && npm install
 ```
 
 ```bash
